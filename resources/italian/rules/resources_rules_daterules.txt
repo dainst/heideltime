@@ -43,6 +43,16 @@ RULENAME="date_historic_4b-BCADhint",EXTRACTION="(%rePartWords )?(\[Dd]el |\b[Ee
 //RULENAME="date_historic_0a_negative",EXTRACTION="([Ii]l )?%reYearBC (\b\S+s\b)[\s]?",POS_CONSTRAINT="group(3):NOM:",NORM_VALUE="REMOVE"
 //RULENAME="date_historic_0b_negative",EXTRACTION="([Ii]l )?%reYearBC (\b\S+s\b)[\s]?",POS_CONSTRAINT="group(3):NPR:",NORM_VALUE="REMOVE"
 
+// historic dates; negative rules
+// EXAMPLE date_historic_0c_negative: (3)                                    (1-digit year)
+// EXAMPLE date_historic_0d_negative: Real-Encyclop. IV 2232; CIL IX, 1936   (1- to 4-digit year)
+// EXAMPLE date_historic_0e_negative: n. 13; cat. 1837                       (1- to 4-digit year)
+RULENAME="date_historic_0c_negative",EXTRACTION="[\(\[]\d[\)\]]",NORM_VALUE="REMOVE"
+RULENAME="date_historic_0d_negative",EXTRACTION="\b[IVXDCM]*[,:]? %reYearBC",NORM_VALUE="REMOVE"
+// NOTE: These might need additional abbreviation rules for sentence tagging in order to work correctly
+RULENAME="date_historic_0e_negative",EXTRACTION="\b(n\.|[Cc]at\.|[A-Z]\.?) %reYearBC",NORM_VALUE="REMOVE"
+
+
 ////////////////////
 // POSITIVE RULES //
 ////////////////////

@@ -106,6 +106,16 @@ RULENAME="date_historic_9c",EXTRACTION="(\b[Dd]epuis|\b[Dd]e|\b[Ee]n|\b[Dd]ès|\
 RULENAME="date_historic_9d",EXTRACTION="\((\d\d)%reAndOrTo(\d\d)\)",NORM_VALUE="UNDEF-centurygroup(1)",OFFSET="group(1)-group(1)"
 RULENAME="date_historic_9e",EXTRACTION="\((\d\d)%reAndOrTo(\d\d)\)",NORM_VALUE="UNDEF-centurygroup(3)",OFFSET="group(3)-group(3)"
 
+// historic dates; negative rules
+// EXAMPLE date_historic_0c_negative: (3)                                    (1-digit year)
+// EXAMPLE date_historic_0d_negative: Real-Encyclop. IV 2232; CIL IX, 1936   (1- to 4-digit year)
+// EXAMPLE date_historic_0e_negative: n. 13; cat. 1837                       (1- to 4-digit year)
+RULENAME="date_historic_0c_negative",EXTRACTION="[\(\[]\d[\)\]]",NORM_VALUE="REMOVE"
+RULENAME="date_historic_0d_negative",EXTRACTION="\b[IVXDCM]*[,:]? %reYearBC",NORM_VALUE="REMOVE"
+// NOTE: These might need additional abbreviation rules for sentence tagging in order to work correctly
+RULENAME="date_historic_0e_negative",EXTRACTION="\b(n\.|[Cc]at\.|[A-Z]\.?) %reYearBC",NORM_VALUE="REMOVE"
+
+
 ////////////////////
 // POSITIVE RULES //
 ////////////////////

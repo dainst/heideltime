@@ -74,10 +74,18 @@ RULENAME="date_historic_6a",EXTRACTION="(Jahr(e)?([ns])?) (\d\d)",NORM_VALUE="%n
 RULENAME="date_historic_6b",EXTRACTION="(Jahr(e)?([ns])?) (\d\d\d)",NORM_VALUE="%normYearBC(group(4))"
 
 // historic dates; negative rules
-// EXAMPLE date_historic_0a_negative: MiG-190      (1- to 4-digit year)
-// EXAMPLE date_historic_0b_negative: 90 Menschen  (2-digit year)
+// EXAMPLE date_historic_0a_negative: MiG-190                                (1- to 4-digit year)
+// EXAMPLE date_historic_0b_negative: 90 Menschen                            (2-digit year)
+// EXAMPLE date_historic_0c_negative: (3)                                    (1-digit year)
+// EXAMPLE date_historic_0d_negative: Real-Encyclop. IV 2232; CIL IX, 1936   (1- to 4-digit year)
+// EXAMPLE date_historic_0e_negative: n. 13; cat. 1837                       (1- to 4-digit year)
 RULENAME="date_historic_0a_negative",EXTRACTION="(MiG(-)%reYearBC)",NORM_VALUE="REMOVE"
 RULENAME="date_historic_0b_negative",EXTRACTION="(%reYear2Digit )([\S]+)",NORM_VALUE="REMOVE",POS_CONSTRAINT="group(3):NN:",OFFSET="group(1)-group(1)"
+RULENAME="date_historic_0c_negative",EXTRACTION="[\(\[]\d[\)\]]",NORM_VALUE="REMOVE"
+RULENAME="date_historic_0d_negative",EXTRACTION="\b[IVXDCM]*[,:]? %reYearBC",NORM_VALUE="REMOVE"
+// NOTE: These might need additional abbreviation rules for sentence tagging in order to work correctly
+RULENAME="date_historic_0e_negative",EXTRACTION="\b(n\.|[Cc]at\.|[A-Z]\.?) %reYearBC",NORM_VALUE="REMOVE"
+
 
 ////////////////////
 // POSITIVE RULES //
@@ -352,4 +360,3 @@ RULENAME="date_r3c_negative",EXTRACTION="(von|um) (%reYear4Digit|[\d]+) (auf) (%
 // Further negative rules (March 2015, Jannik Strötgen)
 // EXAMPLE r4a_negative: UN Resolution 1441
 RULENAME="date_r4a_negative",EXTRACTION="([Rr]esolution|[Ee]ntschließung) %reYear4Digit",NORM_VALUE="REMOVE"
-
