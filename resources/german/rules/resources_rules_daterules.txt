@@ -8,6 +8,15 @@
 // History RULES //
 ///////////////////
 
+// historic dates; year granularity; without explicit AD / BC hints
+// NOTE: These need to be sorted before the more specific ones with explicit AD / BC hints
+RULENAME="date_historic_0a-BCADuncertain",EXTRACTION="([Aa]b |[Nn]ach |[Ff]rühestens |[Ss]päter als |[Vv]on )%reYearBC",NORM_VALUE="%normYearBC(group(2))",NORM_MOD="EQUAL_OR_MORE",OFFSET="group(2)-group(2)"
+RULENAME="date_historic_0b-p1-BCADuncertain",EXTRACTION="[Zz]wischen %reYearBC%reAndOrTo%reYearBC",NORM_VALUE="%normYearBC(group(1))"OFFSET="group(1)-group(1)"
+RULENAME="date_historic_0b-p2-BCADuncertain",EXTRACTION="[Zz]wischen %reYearBC%reAndOrTo%reYearBC",NORM_VALUE="%normYearBC(group(3))"OFFSET="group(3)-group(3)"
+RULENAME="date_historic_0c-BCADuncertain",EXTRACTION="\(%reYearBC\)",NORM_VALUE="%normYearBC(group(1))",OFFSET="group(1)-group(1)"
+RULENAME="date_historic_0d-p1-BCADuncertain",EXTRACTION="\(%reYearBC%reAndOrTo%reYearBC\)",NORM_VALUE="%normYearBC(group(1))",OFFSET="group(1)-group(1)"
+RULENAME="date_historic_0d-p2-BCADuncertain",EXTRACTION="\(%reYearBC%reAndOrTo%reYearBC\)",NORM_VALUE="%normYearBC(group(3))",OFFSET="group(3)-group(3)"
+
 // historic dates; year granularity; with explicit AD / BC hints
 // EXAMPLE date_historic_1a-BCADhint: 190 v. Chr.                (1- to 4-digit year)
 // EXAMPLE date_historic_1b-BCADhint: v. Chr. 190                (1- to 4-digit year)
@@ -53,8 +62,10 @@ RULENAME="date_historic_4a-BCADhint",EXTRACTION="(%reApproximate )?%reSeason %re
 RULENAME="date_historic_4b-BCADhint",EXTRACTION="(%rePartWords )%reSeason %reYearBC %reYearPrefix",NORM_VALUE="%normYearPrefix(group(5))%normYearBC(group(4))-%normSeason(group(3))",
 
 // historic dates; century granularity
+// EXAMPLE date_historic_5a-BCADhint: das 5. Jahrhundert
 // EXAMPLE date_historic_5a-BCADhint: das 5. Jahrhundert v. Chr.
-RULENAME="date_historic_5a-BCADhint",EXTRACTION="([Dd]as )?(%reDayNumber[\.]?|%reDayWordTh) (Jahrhundert[s]?|Jh\.) %reYearPrefix",NORM_VALUE="%normYearPrefix(group(6))%normDay(%SUM%(%normDay(group(2)),-1))"
+RULENAME="date_historic_5a-BCADuncertain",EXTRACTION="([Dd]as )?(%reDayNumber[\.]?|%reDayWordTh) (Jahrhundert[s]?|Jh[s]?\.)",NORM_VALUE="%normDay(%SUM%(%normDay(group(2)),-1))"
+RULENAME="date_historic_5b-BCADhint",EXTRACTION="([Dd]as )?(%reDayNumber[\.]?|%reDayWordTh) (Jahrhundert[s]?|Jh[s]?\.) %reYearPrefix",NORM_VALUE="%normYearPrefix(group(6))%normDay(%SUM%(%normDay(group(2)),-1))"
 
 // historic dates; year granularity
 // EXAMPLE date_historic_6a: Jahr 90  (2-digit year)
@@ -306,7 +317,6 @@ RULENAME="date_r29b",EXTRACTION="([Ee]inigen?|[Ww]enigen?|[Vv]ielen?) %reUnit (f
 // NEGATIVE RULES //
 ////////////////////
 // CHECK THESE RULES (the German tag set is not equal to the English tag set)
-RULENAME="date_r1a_negative",EXTRACTION="(2[3456789]\d\d)",NORM_VALUE="REMOVE"
 RULENAME="date_r1b1_negative",EXTRACTION="%reYear4Digit ([\S]+)",NORM_VALUE="REMOVE",POS_CONSTRAINT="group(2):NN:"
 RULENAME="date_r1b2_negative",EXTRACTION="%reYear4Digit (respektive|von|oder) (%reYear4Digit|[\d]+) ([\S]+)",NORM_VALUE="REMOVE",POS_CONSTRAINT="group(5):NN:"
 RULENAME="date_r1c1_negative",EXTRACTION="%reYear4Digit ([\S]+) ([\S]+)",NORM_VALUE="REMOVE",POS_CONSTRAINT="group(2):ADJA:group(3):NN:"
