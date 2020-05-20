@@ -75,8 +75,10 @@ RULENAME="date_historic_6a",EXTRACTION="(%reApproximate |%rePartWords )?([DdLl]e
 // historic dates; century granularity
 // EXAMPLE date_historic_7a: 2ième siècle av. J.-C.
 // EXAMPLE date_historic_7b: début du 2ième siècle av. J.-C.
-RULENAME="date_historic_7a-BCADhint",EXTRACTION="(%reDayNumberTh|%reDayWordTh) siècles? %reYearPrefix",NORM_VALUE="%normYearPrefix(group(4))%normDay(%SUM%(%normDay(group(1)),-1))"
-RULENAME="date_historic_7b-BCADhint",EXTRACTION="(%reApproximate |%rePartWords |[Ll]e )(%reDayNumberTh|%reDayWordTh) siècles? %reYearPrefix",NORM_VALUE="%normYearPrefix(group(7))%normDay(%SUM%(%normDay(group(4)),-1))"
+// EXAMPLE date_historic_7c: 3ème au 2ième siècle av. J.-C.     (find 2ième siècle av. J.-C.)
+RULENAME="date_historic_7a-BCADhint",EXTRACTION="(%reDayNumberTh|%reDayWordTh) (siècles?|s\.) %reYearPrefix",NORM_VALUE="%normYearPrefix(group(5))%normDay(%SUM%(%normDay(group(1)),-1))"
+RULENAME="date_historic_7b-BCADhint",EXTRACTION="(%reApproximate |%rePartWords |[Ll]e )(%reDayNumberTh|%reDayWordTh) (siècles?|s\.) %reYearPrefix",NORM_VALUE="%normYearPrefix(group(8))%normDay(%SUM%(%normDay(group(4)),-1))"
+RULENAME="date_historic_7c-BCADhint",EXTRACTION="(%reDayNumberTh|%reDayWordTh)%reAndOrTo(%reDayNumberTh|%reDayWordTh) (siècles?|s\.) %reYearPrefix",NORM_VALUE="%normYearPrefix(group(9))%normDay(%SUM%(%normDay(group(1)),-1))",OFFSET="group(1)-group(1)"
 
 // historic dates; year granularity
 // EXAMPLE date_historic_8a:          (après) 190        (3-digit year)
@@ -381,12 +383,14 @@ RULENAME="date_r14d",EXTRACTION="%rePartWords( dans les années )(\d\d\d0)",NORM
 //////////////  date_r15
 // EXAMPLE r15a_1: 19ième/ème siècle
 // EXAMPLE r15a_2: dix-neuvième siècle
-// RULENAME="date_r15a",EXTRACTION="(%reDayNumberTh|%reDayWordTh) siècles?",NORM_VALUE="%normDay(%SUM%(%normDay(group(1)),-1))XX"
+// EXAMPLE r15c: IIIe au IVe siècle
+// RULENAME="date_r15a",EXTRACTION="(%reDayNumberTh|%reDayWordTh) (siècles?|s\.)",NORM_VALUE="%normDay(%SUM%(%normDay(group(1)),-1))XX"
 // LREC change
-RULENAME="date_r15a",EXTRACTION="(%reDayNumberTh|%reDayWordTh) siècles?",NORM_VALUE="%normDay(%SUM%(%normDay(group(1)),-1))"
+RULENAME="date_r15a",EXTRACTION="(%reDayNumberTh|%reDayWordTh) (siècles?|s\.)",NORM_VALUE="%normDay(%SUM%(%normDay(group(1)),-1))"
 // LREC added
-RULENAME="date_r15b",EXTRACTION="(%reApproximate |%rePartWords )?(%reDayNumberTh|%reDayWordTh) siècles?",NORM_VALUE="%normDay(%SUM%(%normDay(group(4)),-1))"
-
+RULENAME="date_r15b",EXTRACTION="(%reApproximate |%rePartWords )?(%reDayNumberTh|%reDayWordTh) (siècles?|s\.)",NORM_VALUE="%normDay(%SUM%(%normDay(group(4)),-1))"
+// History rules added
+RULENAME="date_r15c",EXTRACTION="(%reDayNumberTh|%reDayWordTh)%reAndOrTo(%reDayNumberTh|%reDayWordTh) (siècles?|s\.)",NORM_VALUE="%normDay(%SUM%(%normDay(group(1)),-1))",OFFSET="group(1)-group(1)"
 
 
 
@@ -409,8 +413,8 @@ RULENAME="date_r16c",EXTRACTION="%rePartWords( )?%reMonthLong",NORM_VALUE="UNDEF
 RULENAME="date_r16d",EXTRACTION="%rePartWords( )?%reUnit",NORM_VALUE="UNDEF-%normThisNextLast(ce)-%normUnit(group(3))",NORM_MOD="%normPartWords(group(1))"
 
 // EXAMPLE r16e_1: début du XIXe siècle
-//LREC change RULENAME="date_r16e",EXTRACTION="%rePartWords (%reDayNumberTh|%reDayWordTh) siècle",NORM_VALUE="%normDay(%SUM%(%normDay(group(2)),-1))XX",NORM_MOD="%normPartWords(group(1))"
-RULENAME="date_r16e",EXTRACTION="%rePartWords (%reDayNumberTh|%reDayWordTh) siècle",NORM_VALUE="%normDay(%SUM%(%normDay(group(2)),-1))",NORM_MOD="%normPartWords(group(1))"
+//LREC change RULENAME="date_r16e",EXTRACTION="%rePartWords (%reDayNumberTh|%reDayWordTh) (siècles?|s\.)",NORM_VALUE="%normDay(%SUM%(%normDay(group(2)),-1))XX",NORM_MOD="%normPartWords(group(1))"
+RULENAME="date_r16e",EXTRACTION="%rePartWords (%reDayNumberTh|%reDayWordTh) (siècles?|s\.)",NORM_VALUE="%normDay(%SUM%(%normDay(group(2)),-1))",NORM_MOD="%normPartWords(group(1))"
 
 
 //////////////  date_r17
