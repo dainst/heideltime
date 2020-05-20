@@ -4,10 +4,18 @@
 // This file contains regular expression patterns for year numbers (4 digits).
 // FORMAT: one line is one disjunction of the pattern
 BC
+bc
 B[\.]C[\.]
+b[\.]c[\.]
 B[\.]C
+b[\.]c
 AD
+ad
 A[\.]D[\.]
+a[\.]d[\.]
 A[\.]D
+a[\.]d
 BCE
+bce
 CE
+ce
