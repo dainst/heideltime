@@ -3,10 +3,12 @@
 // date:   2011-06-10
 // This file contains regular expression patterns for year numbers (4 digits).
 // FORMAT: one line is one disjunction of the pattern
-[Aa]v[\.]? J[\.]?-C[\.]?
-[Aa]pr[\.]? J[\.]?-C[\.]?
-[Aa]vant[\.]? J[\.]?-C[\.]?
-[Aa]près[\.]? J[\.]?-C[\.]?
+// NOTE: Depending on your sentence tagging, these might need special attention
+//       to be recognized correctly. Cf. e.g. TreeTaggerWrapper::improveFrenchSentences()
+[Aa]v[\.]? J[\.]?[\- ]?C[\.]?
+[Aa]p[r]?[\.]? J[\.]?[\- ]?C[\.]?
+[Aa]vant[\.]? J[\.]?[\- ]?C[\.]?
+[Aa]près[\.]? J[\.]?[\- ]?C[\.]?
 [Aa]v[\.]? NSJC
 [Aa]pr[\.]? NSJC
 [Aa]vant Jésus-Christ

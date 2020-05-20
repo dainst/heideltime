@@ -536,6 +536,8 @@ public class TreeTaggerWrapper extends JCasAnnotator_ImplBase {
 		HashSet<String> hsSentenceBeginnings = new HashSet<String>();
 		hsSentenceBeginnings.add("J.-C.");
 		hsSentenceBeginnings.add("J-C.");
+		hsSentenceBeginnings.add("J.C.");
+		hsSentenceBeginnings.add("J. C.");
 		hsSentenceBeginnings.add("NSJC");
 		
 		Boolean changes = true;
@@ -548,6 +550,8 @@ public class TreeTaggerWrapper extends JCasAnnotator_ImplBase {
 				
 				if ((s1.getCoveredText().endsWith("av.")) ||
 						(s1.getCoveredText().endsWith("Av.")) ||
+						(s1.getCoveredText().endsWith("ap.")) ||
+						(s1.getCoveredText().endsWith("Ap.")) ||
 						(s1.getCoveredText().endsWith("apr.")) ||
 						(s1.getCoveredText().endsWith("Apr.")) ||
 						(s1.getCoveredText().endsWith("avant.")) ||
