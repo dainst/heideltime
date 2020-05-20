@@ -28,4 +28,6 @@
 [Jj]ahrhunderten
 [Jj]ahrhunderte
 [Jj]ahrhundert
+[Jj]ahrhunderts
 Jh\.
+Jhs\.

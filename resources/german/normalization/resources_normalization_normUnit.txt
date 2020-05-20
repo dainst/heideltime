@@ -28,9 +28,11 @@
 "Jahrzehnte","decade"
 "Jahrzehnten","decade"
 "Jahrhundert","century"
+"Jahrhunderts","century"
 "Jahrhunderte","century"
 "Jahrhunderten","century"
 "Jh\.","century"
+"Jhs\.","century"
 // LOWERCASE
 "handelstag","day"
 "handelstage","day"
