@@ -96,3 +96,6 @@ RULENAME="temponym_birth_c5",EXTRACTION="%reTemponymBirthPerson5Token %reTempony
 
 // temponyms -- PRODUCED
 // RULENAME="temponym_produced_1",EXTRACTION="%reTemponymProduced",NORM_VALUE="%normTemponymProduced(group(1))"
+
+// temponyms -- CHRONONTOLOGY
+RULENAME="temponym_chronontology_1",EXTRACTION="%reTemponymChronontology",NORM_VALUE="%normTemponymChronontology(group(1))"
