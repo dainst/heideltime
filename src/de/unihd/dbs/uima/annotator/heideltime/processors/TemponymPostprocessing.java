@@ -1,6 +1,8 @@
 package de.unihd.dbs.uima.annotator.heideltime.processors;
 
 import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.List;
 import java.util.regex.MatchResult;
 import java.util.regex.Pattern;
 
@@ -22,6 +24,7 @@ public class TemponymPostprocessing {
 	
 	public static void handleIntervals(JCas jcas){
 		
+		// used to collect temponym timexes
 		HashSet<Timex3> timexes = new HashSet<>();
 		
 		// iterate over all TEMPONYMS
@@ -56,6 +59,16 @@ public class TemponymPostprocessing {
 					ti.setTimexValueEE(mr.group(3));
 					ti.setTimexValueLE(mr.group(4));	
 				}
+
+				// Aside from the begin/end designations the temponym value may contain
+				// an array with one or more identifying references, e.g. URIs
+				// These ids are catenated with '|' as that is a character that would
+				// be percent-encoded in any URI.
+				List<String> refStrings = parseReferencesFromTimexValue(t.getTimexValue());
+				if (!refStrings.isEmpty()) {
+					ti.setRef(String.join("|",  refStrings));
+				}
+
 				//System.err.println("temponym: " + t.getTimexValue());				
 				if ((ti.getTimexValueEB() == ti.getTimexValueLB()) && 
 						(ti.getTimexValueLB() == ti.getTimexValueEE()) &&
@@ -73,9 +86,28 @@ public class TemponymPostprocessing {
 				timexes.add(t);
 			}
 		}
+
 		// shall the standard timexes really be removed?
 		for (Timex3 t : timexes){
 			t.removeFromIndexes();
 		}
+	}
+
+
+	private static List<String> parseReferencesFromTimexValue(String timexValue) {
+		List<String> result = new LinkedList<String>();
+		// Match one or more single-quoted strings in an array, eg: "['id1','id2']"
+		Pattern p = Pattern.compile("\\[((\\'[^\\']+\\',* *)+)\\]");
+		for (MatchResult mr : Toolbox.findMatches(p, timexValue)) {
+			// Split on the single-quotes (optionally followed by comma-separators)
+			// to get reference id strings, e.g. "id1" and "id2"
+			// NOTE: This assumes, that none of the references contain single quotes
+			for (String s : mr.group(1).split("\\',* *\\'?")) {
+				if (s.trim().length() > 0) {
+					result.add(s);
+				}
+			}
+		}
+		return result;
 	}
 }

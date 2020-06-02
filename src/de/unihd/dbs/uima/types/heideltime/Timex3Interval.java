@@ -10,8 +10,8 @@ import org.apache.uima.jcas.cas.TOP_Type;
 
 
 /** 
- * Updated by JCasGen Mon Aug 18 14:39:53 CEST 2014
- * XML source: /home/julian/heideltime/heideltime-kit/desc/type/HeidelTime_TypeSystem.xml
+ * Updated by JCasGen Tue Jun 02 11:24:38 CEST 2020
+ * XML source: heideltime/desc/type/HeidelTime_TypeSystem.xml
  * @generated */
 public class Timex3Interval extends Timex3 {
   /** @generated
@@ -214,6 +214,26 @@ public class Timex3Interval extends Timex3 {
     if (Timex3Interval_Type.featOkTst && ((Timex3Interval_Type)jcasType).casFeat_endTimex == null)
       jcasType.jcas.throwFeatMissing("endTimex", "de.unihd.dbs.uima.types.heideltime.Timex3Interval");
     jcasType.ll_cas.ll_setStringValue(addr, ((Timex3Interval_Type)jcasType).casFeatCode_endTimex, v);}    
-  }
 
+	//*--------------*
+	//* Feature: ref
+	
+	/** getter for ref - gets A single URL reference describing the interval or a semicolon-limited list of references
+	 * @generated
+	 * @return value of the feature 
+	 */
+	public String getRef() {
+	  if (Timex3Interval_Type.featOkTst && ((Timex3Interval_Type)jcasType).casFeat_ref == null)
+	    jcasType.jcas.throwFeatMissing("ref", "de.unihd.dbs.uima.types.heideltime.Timex3Interval");
+	  return jcasType.ll_cas.ll_getStringValue(addr, ((Timex3Interval_Type)jcasType).casFeatCode_ref);}
+	  
+	/** setter for ref - sets A single URL reference describing the interval or a semicolon-limited list of references 
+	 * @generated
+	 * @param v value to set into the feature 
+	 */
+	public void setRef(String v) {
+	  if (Timex3Interval_Type.featOkTst && ((Timex3Interval_Type)jcasType).casFeat_ref == null)
+	    jcasType.jcas.throwFeatMissing("ref", "de.unihd.dbs.uima.types.heideltime.Timex3Interval");
+	  jcasType.ll_cas.ll_setStringValue(addr, ((Timex3Interval_Type)jcasType).casFeatCode_ref, v);}    
+}
     

@@ -150,6 +150,8 @@ public class TimeMLResultFormatter implements ResultFormatter {
 					intervalTag += " earliestEnd=\"" + interval.getTimexValueEE() + "\"";
 				if (!interval.getTimexValueLE().equals(""))
 					intervalTag += " latestEnd=\"" + interval.getTimexValueLE() + "\"";
+				if (!(interval.getRef() == null || interval.getRef().equals("")))
+					intervalTag += " ref=\"" + interval.getRef() + "\"";
 				intervalTag += ">";
 				outText += intervalTag;
 			}

@@ -13,7 +13,7 @@ import org.apache.uima.cas.impl.FeatureImpl;
 import org.apache.uima.cas.Feature;
 
 /** 
- * Updated by JCasGen Mon Aug 18 14:39:53 CEST 2014
+ * Updated by JCasGen Tue Jun 02 11:24:38 CEST 2020
  * @generated */
 public class Timex3Interval_Type extends Timex3_Type {
   /** @generated */
@@ -183,9 +183,31 @@ public class Timex3Interval_Type extends Timex3_Type {
       jcas.throwFeatMissing("endTimex", "de.unihd.dbs.uima.types.heideltime.Timex3Interval");
     ll_cas.ll_setStringValue(addr, casFeatCode_endTimex, v);}
     
+
   
-
-
+  /** @generated */
+  final Feature casFeat_ref;
+  /** @generated */
+  final int     casFeatCode_ref;
+  /** @generated
+   * @param addr low level Feature Structure reference
+   * @return the feature value 
+   */ 
+  public String getRef(int addr) {
+        if (featOkTst && casFeat_ref == null)
+      jcas.throwFeatMissing("ref", "de.unihd.dbs.uima.types.heideltime.Timex3Interval");
+    return ll_cas.ll_getStringValue(addr, casFeatCode_ref);
+  }
+  /** @generated
+   * @param addr low level Feature Structure reference
+   * @param v value to set 
+   */    
+  public void setRef(int addr, String v) {
+        if (featOkTst && casFeat_ref == null)
+      jcas.throwFeatMissing("ref", "de.unihd.dbs.uima.types.heideltime.Timex3Interval");
+    ll_cas.ll_setStringValue(addr, casFeatCode_ref, v);}
+    
+  
 
   /** initialize variables to correspond with Cas Type and Features
 	* @generated */
@@ -221,6 +243,9 @@ public class Timex3Interval_Type extends Timex3_Type {
     casFeat_endTimex = jcas.getRequiredFeatureDE(casType, "endTimex", "uima.cas.String", featOkTst);
     casFeatCode_endTimex  = (null == casFeat_endTimex) ? JCas.INVALID_FEATURE_CODE : ((FeatureImpl)casFeat_endTimex).getCode();
 
+     
+    casFeat_ref = jcas.getRequiredFeatureDE(casType, "ref", "uima.cas.String", featOkTst);
+    casFeatCode_ref  = (null == casFeat_ref) ? JCas.INVALID_FEATURE_CODE : ((FeatureImpl)casFeat_ref).getCode();
   }
 }
 
