@@ -11,10 +11,6 @@ Aalenium
 Abiotikum
 aBZ
 äBZ
-äBZ
-äBZ
-äBZ
-äBZ
 ÄBZ
 Achaemenidenzeitlich
 Achämenidenreich
@@ -22,14 +18,7 @@ Adoptionskaiser
 Adoptivkaiser/Antoninische Dynastie
 Adoptivkaisertum
 äEH
-äEH
-äEH
 Aeronium
-äEZ
-äEZ
-äEZ
-äEZ
-äEZ
 äEZ
 äHZ
 al-murabitun
@@ -50,112 +39,36 @@ altchristlich
 Altdiluvium
 Alte Kirche
 Ältere Bronzezeit
-Ältere Bronzezeit
-Ältere Bronzezeit
-Ältere Bronzezeit
-Ältere Bronzezeit
-Ältere Bronzezeit
-Ältere Bronzezeit
 Ältere Eisenzeit
-Ältere Eisenzeit
-Ältere Eisenzeit
-Ältere Eisenzeit
-Ältere Eisenzeit
-Ältere Eisenzeit
-Ältere Eisenzeit
-Ältere Eisenzeit, Hallstattzeit
-Ältere Eisenzeit, Hallstattzeit
-Ältere Eisenzeit, Hallstattzeit
 ältere Hunsrück-Eifel-Kultur
 ältere Kaiserzeit
 Ältere Kupferzeit
-Ältere Kupferzeit
 Ältere RKZ
-Ältere RKZ
-Ältere RKZ
-Ältere RKZ
-Ältere RKZ
-Ältere RKZ
-Ältere RKZ
-Ältere Römische Kaiserzeit
-Ältere Römische Kaiserzeit
-Ältere Römische Kaiserzeit
-Ältere Römische Kaiserzeit
-Ältere Römische Kaiserzeit
-Ältere Römische Kaiserzeit
 Ältere Römische Kaiserzeit
 Ältere Slawenzeit
 ältere Vorröm. Eisenzeit
-ältere Vorröm. Eisenzeit
-ältere Vorröm. Eisenzeit
 Älteres Jungpaläolithikum
-Älteres Jungpaläolithikum
-Älteres Mesolithikum
-Älteres Mesolithikum
 Älteres Mesolithikum
 älteres Neolithikum
 Altertum
 Altes Reich
 Altneolithikum
-Altneolithikum
-Altneolithikum
 Altneolithikum/Bandkeramik
-Altneolithikum/Bandkeramik
-Altneolithikum/Bandkeramik
-Altpaläolithikum
-Altpaläolithikum
-Altpaläolithikum
-Altpaläolithikum
-Altpaläolithikum
-Altpaläolithikum
-Altpaläolithikum
-Altpaläolithikum
-Altpaläolithikum
-Altpaläolithikum
-Altpaläolithikum
-Altpaläolithikum
-Altpaläolithikum
-Altpaläolithikum
-Altpaläolithikum
-Altpaläolithikum
 Altpaläolithikum
 Altpersisches Reich
 Altpersisches Reich der Achämeniden
 Altpleistozän
 Altproterozoikum
 äML
-äML
-äML
-ANB
-ANB
 ANB
 Anis
 Anisium
-ANL
-ANL
 ANL
 äNL
 Antike
 Antoninendynastie
 Antoninisch
-Antoninisch
 Antoninische Zeit
-APL
-APL
-APL
-APL
-APL
-APL
-APL
-APL
-APL
-APL
-APL
-APL
-APL
-APL
-APL
-APL
 APL
 Apt
 Aptien
@@ -167,23 +80,15 @@ Archaik
 Archaikum
 Archäikum
 Archaisch
-Archaisch
 archaische Griechenland
-äRK
-äRK
-äRK
-äRK
-äRK
 äRK
 äRKZ
 Artinskium
 Asselium
 äSZ
 Augusteisch
-Augusteisch
 Augusteische Zeit
-äVZ
-äVZ
+Aurelisch
 äVZ
 Bajoc
 Bajocien
@@ -201,46 +106,14 @@ Berriasium
 Brauner Jura
 Braunjura
 Bronzezeit
-Bronzezeit
-Bronzezeit
-Bronzezeit
-Bronzezeit
-Bronzezeit
-Bronzezeit
-Bronzezeit
-Bronzezeit
-Bronzezeit
-Bronzezeit
-Bronzezeit
-Bronzezeit
-Bronzezeit
-Bronzezeit
-Bronzezeit
-Bronzezeit
-Bronzezeit
-Bronzezeit
 Burdigal
 Burdigalium
 Byzantinische Reich
 Byzanz
 BZ
-BZ
-BZ
-BZ
-BZ
-BZ
-BZ
-BZ
-BZ
-BZ
-BZ
-BZ
-BZ
-BZ
-BZ
-BZ
 Caesarisch
 Calabrium
+Caliguläisch
 Callov
 Callovien
 Callovium
@@ -258,7 +131,6 @@ Chatt
 Chattium
 Cisuralium
 Claudisch
-Claudisch
 Claudische Zeit
 Coniac
 Coniacium
@@ -271,9 +143,7 @@ Dapingium
 Darriwilium
 Das Kalifat der Almohaden
 deutsches Mittelalter
-deutsches Mittelalter
 Devon
-dMA
 dMA
 Dogger
 Domitianisch
@@ -288,49 +158,15 @@ Ectasium
 Ediacarium
 Eifelium
 Eisenzeit
-Eisenzeit
-Eisenzeit
-Eisenzeit
-Eisenzeit
-Eisenzeit
-Eisenzeit
-Eisenzeit
-Eisenzeit
-Eisenzeit
 Emirat von Granada
 Emsium
 Endneolithikum
-Endneolithikum
-Endneolithikum
-Endneolithikum
-Endneolithikum
 Endneolithikum/Rheinische Becherkulturen
-ENL
-ENL
-ENL
-ENL
 ENL
 ENR
 Eoarchaikum
 Eozän
 Eozoikum
-Epipaläolithikum
-Epipaläolithikum
-Epipaläolithikum
-Epipaläolithikum
-Epipaläolithikum
-Epipaläolithikum
-Epipaläolithikum
-Epipaläolithikum
-Epipaläolithikum
-Epipaläolithikum
-Epipaläolithikum
-Epipaläolithikum
-Epipaläolithikum
-Epipaläolithikum
-Epipaläolithikum
-Epipaläolithikum
-Epipaläolithikum
 Epipaläolithikum
 EPL
 Erdaltertum
@@ -345,47 +181,12 @@ erste Taifa-Periode
 Erste Zwischenzeit
 ESA
 EZ
-EZ
-EZ
-EZ
-EZ
-EZ
-EZ
 Famennium
 fBZ
-fBZ
-fBZ
-fBZ
-FBZ
-FBZ
-FBZ
-FBZ
-FBZ
-FBZ
-FBZ
-FBZ
 FBZ
 FDZ
 FEZ
 FFM
-FG
-FG
-FG
-FG
-FG
-FG
-FG
-FG
-FG
-FG
-FG
-FG
-FG
-FG
-FG
-FG
-FG
-FG
 FG
 Fh III
 FH III
@@ -394,7 +195,6 @@ Fk I
 FK I
 fKu
 Flavisch
-Flavische Dynastie
 Flavische Dynastie
 Flavische Zeit
 Floium
@@ -405,59 +205,16 @@ FM II
 Fm III
 FM III
 FMA
-FMA
-FMA
-FMA
-FMA
-FMA
-FMA
-FMA
-FMA
-FMA
-FML
-FML
-FML
-FML
-FML
-FML
-FML
-FML
-FML
-FML
 FML
 FN Ia/Ib
 FN Ic/MN II
 fNL
-fNL
-FNL
-FNL
-FNL
-FNL
-FNL
-FNL
-FNL
 FNL
 fNZ
-fNZ
-fNZ
-fNZ
-fNZ
-fNZ
-fNZ
-fNZ
-fNZ
-fNZ
-fNZ
-fNZ
-FNZ
 FNZ
 Fortunium
 Frasne
 Frasnium
-fRK
-fRK
-fRK
-fRK
 fRK
 Früh- und Hochmittelalter
 Frühantoninisch
@@ -467,83 +224,25 @@ Früharchaisch
 Frühaugusteisch
 Frühaugusteische Zeit
 Frühbronzezeit
-Frühbronzezeit
-Frühbronzezeit
-Frühbronzezeit
-Frühbronzezeit
-Frühbronzezeit
-Frühbronzezeit
-Frühbronzezeit
-Frühbronzezeit
 frühbyzantinische Zeit
 Frühchristlich
 Frühdeutsche Zeit
 Frühdynastische Zeit
 Frühe Bronzezeit
-Frühe Bronzezeit
-Frühe Bronzezeit
-Frühe Bronzezeit
-Frühe Bronzezeit
-Frühe Bronzezeit
 Frühe Eisenzeit
-Frühe Kaiserzeit
 Frühe Kaiserzeit
 Frühe Kupferzeit
 Frühe Neuzeit
-Frühe Neuzeit
-Frühe Neuzeit
-Frühe Neuzeit
-Frühe Neuzeit
-Frühe Neuzeit
-Frühe Neuzeit
-Frühe Neuzeit
-Frühe Neuzeit
-Frühe Neuzeit
-Frühe Neuzeit
-Frühe Neuzeit
-Frühe Neuzeit
-Frühe Neuzeit
-Frühe RKZ
-Frühe RKZ
-Frühe RKZ
-Frühe RKZ
 Frühe RKZ
 Frühe Römische
-Frühe Römische
-Frühe Römische Kaiserzeit
-Frühe Römische Kaiserzeit
-Frühe Römische Kaiserzeit
-Frühe Römische Kaiserzeit
 Frühe Römische Kaiserzeit
 Frühe und Mittlere Kaiserzeit
 Frühe Völkerwanderungszeit
 Frühe Vorrömische Eisenzeit
 Frühes Mittelalter
-Frühes Mittelalter
-Frühes Neolithikum
-Frühes Neolithikum
-Frühes Neolithikum
 Frühes Neolithikum
 Frühestmesolithikum
 Frühgeometrisch
-Frühgeschichte
-Frühgeschichte
-Frühgeschichte
-Frühgeschichte
-Frühgeschichte
-Frühgeschichte
-Frühgeschichte
-Frühgeschichte
-Frühgeschichte
-Frühgeschichte
-Frühgeschichte
-Frühgeschichte
-Frühgeschichte
-Frühgeschichte
-Frühgeschichte
-Frühgeschichte
-Frühgeschichte
-Frühgeschichte
 Frühgeschichte
 Frühhelladisch III
 Frühhellenistisch
@@ -552,38 +251,10 @@ Frühklassik
 Frühkorinthisch
 Frühkykladisch I
 Frühmesolithikum
-Frühmesolithikum
-Frühmesolithikum
-Frühmesolithikum
-Frühmesolithikum
-Frühmesolithikum
-Frühmesolithikum
-Frühmesolithikum
-Frühmesolithikum
-Frühmesolithikum
-Frühmesolithikum
 Frühminoisch I
 Frühminoisch II
 Frühminoisch III
 Frühmittelalter
-Frühmittelalter
-Frühmittelalter
-Frühmittelalter
-Frühmittelalter
-Frühmittelalter
-Frühmittelalter
-Frühmittelalter
-Frühmittelalter
-Frühmittelalter
-Frühmittelalter
-Frühmittelalter
-Frühneolithikum
-Frühneolithikum
-Frühneolithikum
-Frühneolithikum
-Frühneolithikum
-Frühneolithikum
-Frühneolithikum
 Frühneolithikum
 Frühneolithikum Ia/Ib
 Frühneolithikum Ic/Mittelneolithikum II
@@ -591,9 +262,7 @@ Frühprotoattisch
 Frühprotokorinthisch
 Frührepublikanisch
 Frühslawisch
-Frühslawisch
 Frühtrömische Republik
-fSL
 fSL
 Furongium
 fVE
@@ -617,13 +286,11 @@ Ha C
 Ha D
 Hadaikum
 Hadrianisch
-Hadrianisch
 Hadrianische Zeit
 Hallstatt A
 Hallstatt B
 Hallstatt C
 Hallstatt D
-Hallstattzeit
 Hallstattzeit
 Handelsrepublik Karthago
 Hauterivium
@@ -663,13 +330,11 @@ Herrschaft von Geta
 Herrschaft von Glycerius
 Herrschaft von Gordianus I
 Herrschaft von Gordianus II
-Herrschaft von Gordianus II
 Herrschaft von Gratianus
 Herrschaft von Hadrianus
 Herrschaft von Honorius
 Herrschaft von Iulianus Apostata
 Herrschaft von Iulius Nepos
-Herrschaft von Konstantin der Große
 Herrschaft von Konstantin der Große
 Herrschaft von Libius
 Herrschaft von Licinius
@@ -716,208 +381,72 @@ Hettangien
 Hettangium
 Hirnantium
 HMA
-HMA
-HMA
-HMA
-HMA
-HMA
-HMA
-HMA
-HMA
-HMA
-HMA
 Hocharchaisch
 hochgeometrisch
 Hochhellenistisch
 Hochklassik
-Hochmittelalter
-Hochmittelalter
-Hochmittelalter
-Hochmittelalter
-Hochmittelalter
-Hochmittelalter
-Hochmittelalter
-Hochmittelalter
-Hochmittelalter
-Hochmittelalter
-Hochmittelalter
-Hochmittelalter
 Hochmittelalter
 Hochrepublikanisch
 Hochrömische Republik
 Hohe Kaiserzeit
 Homerium
 HZ
-HZ
 Induium
 Indus-Stufe
 Indusium
 Induum
 iNZ
-iNZ
 Ionium
 Iulisch Claudisch
-Iulisch-Claudisch Zeit 
+Iulisch-Claudisch Zeit
 jBZ
-jBZ
-JBZ
-JBZ
-JBZ
-JBZ
-JBZ
-JBZ
 JBZ
 JEL
 jEZ
-jEZ
-jEZ
 Jiangshanium
-jjNZ
 jjNZ
 jLT
 jML
-jML
-jML
 JN I/III
-jN/nN
 jN/nN
 jNL
 JNL
-JNL
-JNL
-JNL
-JNL
-JNL
-JNL
 JNM
 JPL
-JPL
-JPL
-JPL
-JPL
-JPL
-JPL
-JPL
-JPL
-JPL
-JPL
-JPL
-JPL
-JPL
-JPL
-JPL
-JPL
-JPL
-JPL
-jRK
-jRK
-jRK
-jRK
-jRK
-jRK
 jRK
 jRKZ
 jsB
-jsB
 jsB-fEZ
-jsB-fEZ
-jsN
 jsN
 jSZ
 Julisch-Claudisch
-Julisch-Claudisch Zeit 
+Julisch-Claudisch Zeit
 Julisch-Claudische Dynastie
 Julische-claudische Dynastie
 Jung- und Spätbronzezeit
-Jung- und Spätbronzezeit
-Jung- und Spätbronzezeit, Frühe Eisenzeit
-Jung- und Spätbronzezeit, Frühe Eisenzeit
 Jüngere Bronzezeit
-Jüngere Bronzezeit
-Jüngere Bronzezeit
-Jüngere Bronzezeit
-Jüngere Bronzezeit
-Jüngere Bronzezeit
-Jüngere Bronzezeit
-Jüngere Bronzezeit
-Jüngere Bronzezeit
-Jüngere Eisenzeit
-Jüngere Eisenzeit
-Jüngere Eisenzeit
 Jüngere Eisenzeit
 Jüngere Eisenzeit / Latènezeit
 jüngere Kaiserzeit
 Jüngere Kupferzeit
-Jüngere Kupferzeit
 Jüngere Latènezeit
 jüngere Neuzeit
-jüngere Neuzeit
-Jüngere Neuzeit /nN
 Jüngere Neuzeit /nN
 Jüngere RKZ
-Jüngere RKZ
-Jüngere RKZ
-Jüngere RKZ
-Jüngere RKZ
-Jüngere RKZ
-Jüngere RKZ
-Jüngere RKZ
-Jüngere Römische Kaiserzeit
-Jüngere Römische Kaiserzeit
-Jüngere Römische Kaiserzeit
-Jüngere Römische Kaiserzeit
-Jüngere Römische Kaiserzeit
-Jüngere Römische Kaiserzeit
-Jüngere Römische Kaiserzeit
 Jüngere Römische Kaiserzeit
 Jüngere Slawenzeit
 jüngere Vorröm. Eisenzeit
-jüngere Vorröm. Eisenzeit
-jüngere Vorröm. Eisenzeit
-Jüngeres Jungpaläolithikum
 Jüngeres Jungpaläolithikum
 Jüngeres Mesolithikum
-Jüngeres Mesolithikum
-Jüngeres Mesolithikum
 Junges und spätes Neolithikum
-Junges und spätes Neolithikum
-Jungneolithikum
-Jungneolithikum
-Jungneolithikum
-Jungneolithikum
-Jungneolithikum
-Jungneolithikum
-Jungneolithikum
 Jungneolithikum
 Jungneolithikum I/III
 Jungneolithikum/Michelsberg
 Jungpaläolithikum
-Jungpaläolithikum
-Jungpaläolithikum
-Jungpaläolithikum
-Jungpaläolithikum
-Jungpaläolithikum
-Jungpaläolithikum
-Jungpaläolithikum
-Jungpaläolithikum
-Jungpaläolithikum
-Jungpaläolithikum
-Jungpaläolithikum
-Jungpaläolithikum
-Jungpaläolithikum
-Jungpaläolithikum
-Jungpaläolithikum
-Jungpaläolithikum
-Jungpaläolithikum
-Jungpaläolithikum
-Jungpaläolithikum
 Jungpleistozän
 Jungproterozoikum
 Jüngste Neuzeit
-Jüngste Neuzeit
 Jura
-jVZ
-jVZ
 jVZ
 Kaiserzeitlich
 Kalifal
@@ -945,8 +474,6 @@ Kimmeridge
 Kimmeridgien
 Kimmeridgium
 Klassik
-Klassik
-Klassik
 Klassische Antike
 klassische Periode
 klassischer Zeit
@@ -961,8 +488,6 @@ Korinthisch
 Kreide
 Kungurium
 Kupferzeit
-Kupferzeit
-Kupferzeit
 KuZ
 La Tène A
 La Tène B
@@ -976,12 +501,7 @@ Ladin
 Ladinium
 Langhium
 Latènezeit
-Latènezeit
-Latènezeit
-Latènezeit
-Latènezeit
 Lias
-Limeszeith
 Limeszeith
 Llandovery
 LM I
@@ -994,99 +514,27 @@ Lochkovium
 Loping
 Lopingium
 LT
-LT
-LT
-LT
 Ludfordium
 Ludlow
 Lutet
 Lutetium
 MA
-MA
-MA
-MA
-MA
-MA
-MA
-MA
-MA
-MA
-MA
-MA
-MA
-MA
-MA
-MA
-MA
-MA
-MA
-MA
 Maastrichtium
 Malm
 mBZ
-mBZ
-mBZ
-MBZ
-MBZ
-MBZ
-MBZ
-MBZ
-MBZ
-MBZ
-MBZ
-MBZ
 MBZ
 Mero
-Merovinger
 Merovinger
 Merowingerdynastie
 Merowingerzeit
 Merowingisch
-Merowingisch
 Mesoarchaikum
-Mesolithikum
-Mesolithikum
-Mesolithikum
-Mesolithikum
-Mesolithikum
-Mesolithikum
-Mesolithikum
-Mesolithikum
-Mesolithikum
-Mesolithikum
-Mesolithikum
-Mesolithikum
-Mesolithikum
-Mesolithikum
-Mesolithikum
-Mesolithikum
-Mesolithikum
-Mesolithikum
-Mesolithikum
-Mesolithikum
 Mesolithikum
 Mesoproterozoikum
 Mesozoikum
 Messin
 Messinium
 Metallzeit
-Metallzeit
-Metallzeit
-Metallzeit
-Metallzeit
-Metallzeit
-Metallzeit
-Metallzeit
-Metallzeit
-Metallzeit
-Metallzeit
-Metallzeit
-Metallzeit
-Metallzeit
-Metallzeit
-Metallzeit
-Metallzeit
-Metallzeiten
 Metallzeiten
 mEZ
 Middle Stone Age
@@ -1094,28 +542,6 @@ Militärkaiser
 Miozän
 Mississippium
 Mittel Neolithikum
-Mittel Neolithikum
-Mittelalter
-Mittelalter
-Mittelalter
-Mittelalter
-Mittelalter
-Mittelalter
-Mittelalter
-Mittelalter
-Mittelalter
-Mittelalter
-Mittelalter
-Mittelalter
-Mittelalter
-Mittelalter
-Mittelalter
-Mittelalter
-Mittelalter
-Mittelalter
-Mittelalter
-Mittelalter
-Mittelalter
 Mittelalter
 Mittelalterlich
 Mittelantoninisch
@@ -1124,57 +550,18 @@ Mittelarchaik
 Mittelaugusteisch
 Mittelaugusteische Zeit
 Mittelbronzezeit
-Mittelbronzezeit
 mittelbyzantinische Zeit
 Mitteldevon
 Mittelgeometrisch
 Mitteljura
 Mittelkorinthisch
 Mittelmesolithikum
-Mittelmesolithikum
-Mittelmesolithikum
-Mittelmesolithikum
 Mittelminoisch I
 Mittelminoisch II
 Mittelminoisch III
 Mittelneolithikum
-Mittelneolithikum
-Mittelneolithikum
-Mittelneolithikum
-Mittelneolithikum
-Mittelneolithikum
-Mittelneolithikum
-Mittelneolithikum
-Mittelneolithikum
-Mittelneolithikum
-Mittelneolithikum
-Mittelneolithikum
-Mittelneolithikum
-Mittelneolithikum
-Mittelneolithikum
 Mittelneolithikum III/V
 Mittelordovizium
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
-Mittelpaläolithikum
 Mittelpaläolithikum
 Mittelperm
 Mittelpleistozän
@@ -1182,32 +569,13 @@ Mittelproterozoikum
 Mittelprotoattisch
 Mittelprotokorinthisch
 Mittelslawisch
-Mittelslawisch
 Mitteltrias
-Mittlere Bronzezeit
-Mittlere Bronzezeit
-Mittlere Bronzezeit
-Mittlere Bronzezeit
-Mittlere Bronzezeit
-Mittlere Bronzezeit
-Mittlere Bronzezeit
-Mittlere Bronzezeit
-Mittlere Bronzezeit
-Mittlere Bronzezeit
-Mittlere Bronzezeit
-Mittlere Bronzezeit
 Mittlere Bronzezeit
 mittlere Eisenzeit
 Mittlere Kaiserzeit
 Mittlere Kupferzeit
-Mittlere Kupferzeit
-Mittlere Kupferzeit
 Mittlere Republik
 Mittlere RKZ
-Mittlere RKZ
-Mittlere RKZ
-Mittlere Römische Kaiserzeit
-Mittlere Römische Kaiserzeit
 Mittlere Römische Kaiserzeit
 Mittlere Slawenzeit
 Mittlere Trias
@@ -1215,34 +583,13 @@ Mittlere Vorrömische Eisenzeit
 Mittlerer Jura
 Mittleres Devon
 Mittleres Jungpaläolithikum
-Mittleres Jungpaläolithikum
 Mittleres Mississippium
-Mittleres Neolithikum
-Mittleres Neolithikum
 Mittleres Neolithikum
 Mittleres Paläozän
 Mittleres Perm
 Mittleres Pleistozän
 Mittleres Reich
 mKu
-ML
-ML
-ML
-ML
-ML
-ML
-ML
-ML
-ML
-ML
-ML
-ML
-ML
-ML
-ML
-ML
-ML
-ML
 ML
 MLN
 Mm I
@@ -1252,82 +599,23 @@ MM II
 Mm III
 MM III
 MML
-MML
-MML
-MML
 MN III/V
 mNL
-mNL
-mNL
-MNL
-MNL
-MNL
-MNL
-MNL
-MNL
-MNL
-MNL
-MNL
-MNL
-MNL
-MNL
-MNL
 MNL
 Moskovium
 Mozarabisch
 MPL
-MPL
-MPL
-MPL
-MPL
-MPL
-MPL
-MPL
-MPL
-MPL
-MPL
-MPL
-MPL
-MPL
-MPL
-MPL
-MPL
-MPL
-MPL
-mRK
-mRK
 mRK
 MSA
 mSL
-mSL
 mSZ
-Mudéjar
 Mudéjar
 Mudejaren
 Mudéjares
 Mudéjarstil
 mVE
 MZ
-MZ
-MZ
-MZ
-MZ
-MZ
-MZ
-MZ
-MZ
-MZ
-MZ
-MZ
-MZ
-MZ
-MZ
-MZ
-MZ
 MZn
-MZn
-Nachantik
-Nachantik
 Nachantik
 Nasriden
 Nasriden-Reich
@@ -1337,65 +625,17 @@ nasridische Periode
 Neoarchaikum
 Neogen
 Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
-Neolithikum
 Neoproterozoikum
-Neronisch
 Neronisch
 Neronische Zeit
 Neues Reich
 Neupersisches Reich
 Neuzeit
-Neuzeit
 Neuzeit 18.-20. Jh.
-Neuzeit 18.-20. Jh.
-Neuzeit 18.-20. Jh.
-Neuzeit 18.-20. Jh.
-NL
-NL
-NL
-NL
-NL
-NL
-NL
-NL
-NL
-NL
-NL
-NL
-NL
-NL
-NL
-NL
-NL
-NL
 NL
 Nor
 Norium
 Numidien
-NZ2
-NZ2
-NZ2
 NZ2
 Oberdevon
 Obere Trias
@@ -1434,25 +674,6 @@ Paibium
 Paläoarchaikum
 Paläogen
 Paläolithikum
-Paläolithikum
-Paläolithikum
-Paläolithikum
-Paläolithikum
-Paläolithikum
-Paläolithikum
-Paläolithikum
-Paläolithikum
-Paläolithikum
-Paläolithikum
-Paläolithikum
-Paläolithikum
-Paläolithikum
-Paläolithikum
-Paläolithikum
-Paläolithikum
-Paläolithikum
-Paläolithikum
-Paläolithikum
 Paläoproterozoikum
 Paläozän
 Paläozoikum
@@ -1467,24 +688,6 @@ Piacentin
 Piacentium
 Piacenzium
 PL
-PL
-PL
-PL
-PL
-PL
-PL
-PL
-PL
-PL
-PL
-PL
-PL
-PL
-PL
-PL
-PL
-PL
-Pleistozän
 Pleistozän
 Pliensbach
 Pliensbachien
@@ -1514,44 +717,14 @@ Rhät
 Rhuddanium
 Rhyacium
 RKZ
-RKZ
-RKZ
-RKZ
-RKZ
-RKZ
-RKZ
-RKZ
-RKZ
-RKZ
-RKZ
-RKZ
-RKZ
-RKZ
 Röa
 Roadium
 Röm.Kaiserzeit
-Röm.Kaiserzeit
-Röm.Kaiserzeit
-Röm.Kaiserzeit
-Röm.Kaiserzeit
-Röm.Kaiserzeit
-Röm.Kaiserzeit
-Röm.Kaiserzeit
-Röm.Kaiserzeit
-Röm.Kaiserzeit
-Röm.Kaiserzeit
-Röm.Kaiserzeit
-Röm.Kaiserzeit
-Röm.Kaiserzeit
-Römisch
 Römisch
 Römische
-Römische
-Römische Eisenzeit 
+Römische Eisenzeit
 Römische Kaiserzeit
-Römische Kaiserzeit
-Römische Kaiserzeit
-römische Königszeit 
+römische Königszeit
 Römische Republik
 Römische Tetrarchie
 Römisches Reich
@@ -1571,12 +744,7 @@ Sassaniden
 Sassanidenreich
 Sassanidenzeit
 SBU
-SBU
-SBU
 sBZ
-SBZ
-SBZ
-SBZ
 SBZ
 Schwarzer Jura
 Schwarzjura
@@ -1584,8 +752,6 @@ Seeland
 Seeland-Stufe
 Seelandium
 Selandium
-SEN
-SEN
 SEN
 Serpukhovium
 Serravallium
@@ -1616,8 +782,6 @@ Sk I
 SK I
 sKu
 SL
-SL
-Slawenzeit
 Slawenzeit
 Sm I
 SM I
@@ -1626,59 +790,17 @@ SM II
 Sm III
 SM III
 SM III A 1
-SM III A 1
-SM III A 2
 SM III A 2
 SM III B
-SM III B
 SMA
-SMA
-SMA
-SMA
-SMA
-SMA
-SMA
-SMA
-SMA
-SMA
-SMA
-SMA
-SML
-SML
-SML
-SML
-SML
-SML
-SML
-SML
-SML
-SML
 SML
 SN I/II
 SNL
-SNL
-SNL
-SNL
-SNL
-SNL
-SNL
-SNL
-SNL
-SNL
-SNL
 SNW
 sNZ
-sNZ
-sNZ
-Soldatenkaiser
 Soldatenkaiser
 Spät Kaiserzeit
 Spät- / Endneolithikum
-Spät- / Endneolithikum
-Spät- / Endneolithikum
-Spätantik
-Spätantik
-Spätantik
 Spätantik
 Spätantike
 Spätantike II
@@ -1690,36 +812,15 @@ Spätaugusteisch
 Spätaugusteische Zeit
 Spätbyzantinische Zeit
 Späte Bronzezeit
-Späte Bronzezeit
-Späte Bronzezeit
-Späte Bronzezeit
-Späte Bronzezeit
-Späte Bronzezeit
-Späte Bronzezeit
-Späte Bronzezeit, Urnenfelderzeit
-Späte Bronzezeit, Urnenfelderzeit
-Späte Bronzezeit, Urnenfelderzeit
 Späte Eisenzeit
 Späte Kupferzeit
 Späte Neuzeit
-Späte Neuzeit
-Späte Neuzeit
 Späte Republik
 Späte RKZ
-Späte RKZ
-Späte RKZ
-Späte RKZ
-Späte RKZ
-Späte Römische
 Späte Römische
 Späte Römische Kaiserzeit
-Späte Römische Kaiserzeit
-Späte Römische Kaiserzeit
-Späte Römische Kaiserzeit
-Späte Römische Kaiserzeit
 Späte Vorrömische Eisenzeit
-Späte Vorrömische Eisenzeit
-Späte VWZ, Merowingerzeit
+Späte VWZ
 Spätgeometrisch
 Spätgeometrisch I
 Spätgeometrisch I A
@@ -1735,21 +836,10 @@ Späthelladisch III A 2
 Späthelladisch III B
 Späthelladisch III C
 Späthellenistisch
-Späthellenistisch
 Spätklassik
 Spätkorinthisch
 Spätkykladisch I
 Spätlatene
-Spätmesolithikum
-Spätmesolithikum
-Spätmesolithikum
-Spätmesolithikum
-Spätmesolithikum
-Spätmesolithikum
-Spätmesolithikum
-Spätmesolithikum
-Spätmesolithikum
-Spätmesolithikum
 Spätmesolithikum
 Spätminoisch I
 Spätminoisch II
@@ -1758,103 +848,25 @@ Spätminoisch III A 1
 Spätminoisch III A 2
 Spätminoisch III B
 Spätmittelalter
-Spätmittelalter
-Spätmittelalter
-Spätmittelalter
-Spätmittelalter
-Spätmittelalter
-Spätmittelalter
-Spätmittelalter
-Spätmittelalter
-Spätmittelalter
-Spätmittelalter
-Spätmittelalter
-Spätmittelalter
-Spätmittelalter
 Spätmykenisch
-Spätneolithikum
-Spätneolithikum
-Spätneolithikum
-Spätneolithikum
-Spätneolithikum
-Spätneolithikum
-Spätneolithikum
-Spätneolithikum
-Spätneolithikum
-Spätneolithikum
 Spätneolithikum
 Spätneolithikum I/II
 Spätneolithikum/Wartberg
-Spätpaläolithikum
-Spätpaläolithikum
-Spätpaläolithikum
-Spätpaläolithikum
-Spätpaläolithikum
-Spätpaläolithikum
-Spätpaläolithikum
-Spätpaläolithikum
-Spätpaläolithikum
-Spätpaläolithikum
-Spätpaläolithikum
-Spätpaläolithikum
-Spätpaläolithikum
-Spätpaläolithikum
-Spätpaläolithikum
-Spätpaläolithikum
-Spätpaläolithikum
 Spätpaläolithikum
 Spätpleistozän
 Spätprotoattisch
 Spätprotokorinthisch
 Spätrepublikanisch
-Spätrepublikanisch
 Spätrömische Republik
-Spätslawisch
 Spätslawisch
 Spätzeit
 sPL
-sPL
-sPL
-sPL
-sPL
-sPL
-sPL
-sPL
-sPL
-sPL
-sPL
-sPL
-sPL
-sPL
-sPL
 Srinemurien
 sRK
-sRK
-sRK
-sRK
-sRK
-sSL
 sSL
 Statherium
 Stauf
 Stauferzeit
-Steinzeiten
-Steinzeiten
-Steinzeiten
-Steinzeiten
-Steinzeiten
-Steinzeiten
-Steinzeiten
-Steinzeiten
-Steinzeiten
-Steinzeiten
-Steinzeiten
-Steinzeiten
-Steinzeiten
-Steinzeiten
-Steinzeiten
-Steinzeiten
-Steinzeiten
 Steinzeiten
 Stenium
 Strenger Stil
@@ -1875,28 +887,10 @@ sVE
 sVM
 sVZ
 SZn
-SZn
-SZn
-SZn
-SZn
-SZn
-SZn
-SZn
-SZn
-SZn
-SZn
-SZn
-SZn
-SZn
-SZn
-SZn
-SZn
-SZn
 Tarantium
 Telychium
 Terreneuvium
 Tertiär
-Tetrarchie
 Tetrarchie
 Tetrarchisch
 Thanet
@@ -1904,11 +898,9 @@ Thanet-Stufe
 Thanetium
 Theodosianisch
 Theodosianische Dynastie
-Theodosianische Dynastie
 Theodosianische Zeit
 Theodosisches Kaiserhaus
 Thrakische Dynastie
-Tiberisch
 Tiberisch
 Tiberische Zeit
 Tithon
@@ -1922,7 +914,7 @@ Torton
 Tortonium
 Tournai
 Tournaisium
-Trajanisch
+Traianisch
 Trajanisch
 Trajanische Zeit
 Tremadocium
@@ -1930,10 +922,6 @@ Trias
 Türkisches Reich
 Turon
 Turonium
-UG
-UG
-UG
-UG
 UG
 Unterdevon
 Untere Pleistozän
@@ -1951,99 +939,22 @@ Unterperm
 Unterpliozän
 Untertrias
 Urgeschichte
-Urgeschichte
-Urgeschichte
-Urgeschichte
-Urgeschichte
 Valangin
 Valanginium
 Valentinianische Dynastie
 Vespasianisch
 VEZ
-VEZ
-VEZ
-VEZ
-VEZ
-VEZ
-VEZ
-VEZ
-VEZ
-VG
-VG
-VG
-VG
-VG
-VG
-VG
-VG
-VG
-VG
-VG
-VG
-VG
 VG
 Vier-Kaiserherrschaft
-Vierkaiserjahr
 Vierkaiserjahr
 Visé
 Viséum
 Völkerwanderungseit
-Völkerwanderungseit
-Völkerwanderungszeit
-Völkerwanderungszeit
-Völkerwanderungszeit
-Völkerwanderungszeit
-Völkerwanderungszeit
-Völkerwanderungszeit
-Völkerwanderungszeit
-Völkerwanderungszeit
-Völkerwanderungszeit
-Völkerwanderungszeit
-Völkerwanderungszeit
-Völkerwanderungszeit
-Völkerwanderungszeit
-Völkerwanderungszeit
-Völkerwanderungszeit
-Völkerwanderungszeit
 Völkerwanderungszeit
 Völkerwanderungszeitlich
-Völkerwanderungszeitlich
 Vorgeschichte
-Vorgeschichte
-Vorgeschichte
-Vorgeschichte
-Vorgeschichte
-Vorgeschichte
-Vorgeschichte
-Vorgeschichte
-Vorgeschichte
-Vorgeschichte
-Vorgeschichte
-Vorgeschichte
-Vorgeschichte
-Vorgeschichte
-Vorröm.Eisenzeit
-Vorröm.Eisenzeit
-Vorröm.Eisenzeit
-Vorröm.Eisenzeit
-Vorröm.Eisenzeit
-Vorröm.Eisenzeit
-Vorröm.Eisenzeit
-Vorröm.Eisenzeit
 Vorröm.Eisenzeit
 Vorrömischeeisenzeit
-VWZ
-VWZ
-VWZ
-VWZ
-VWZ
-VWZ
-VWZ
-VWZ
-VWZ
-VWZ
-VWZ
-VWZ
 VWZ
 Weißer Jura
 Weißjura
@@ -2058,7 +969,6 @@ Zancleum
 Zeit der Almohaden
 Zeit der Almoraviden
 Zeit der Soldatenkaiser
-Zeitgeschichte
 Zeitgeschichte
 zweite Taifa Königreiche
 zweite Taifa-Periode
