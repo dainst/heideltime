@@ -1,0 +1,1 @@
+RULENAME="temponym_chronontology_1",EXTRACTION="%reTemponymChronontology",NORM_VALUE="%normTemponymChronontology(group(1))"

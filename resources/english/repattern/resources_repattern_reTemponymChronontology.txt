@@ -1,70 +1,12 @@
-"Transitional" Samarra
-<c.1950
-1200 BC
-1200 BC Middle East
-12th dynasty
-13th Century AD
-13th Century AD Eastern Mediterranean
+Transitional Samarra
 13th dynasty
 14th dynasty
-1500 AD
-1500 AD Middle East
 15th dynasty
-16th and 17th Centuries
-16th Century
-16th dynasty
-17th Century
-17th Century::1st half
-17th Century::1st quarter
-17th Century::2nd half
-17th Century::2nd quarter
-17th Century::2nd/3rd quarter
-17th Century::3rd quarter
-17th Century::4th quarter
 17th dynasty
-1870 - 1930
-1870-1930
-1870-1998
-1880 to 2008
-18th and 19th Centuries
-18th Century
-18th Century::1st half
-18th Century::1st quarter
-18th Century::2nd half
-18th Century::2nd quarter
-18th Century::2nd/3rd quarter
-18th Century::3rd quarter
-18th Century::4th quarter
 18th dynasty
-19th c. American
-19th cent. urban
-19th Century
-19th century urban
-19th Century::1st half
-19th Century::1st quarter
-19th Century::2nd half
-19th Century::2nd quarter
-19th Century::2nd/3rd quarter
-19th Century::3rd quarter
-19th Century::4th quarter
 19th dynasty
-19th urban
-19th-20th cent urban
 1rst Dynasty
-1st War to 2nd
-20th and 21st Centuries
-20th c. American
-20th century
-20th Century
-20th Century::1st half
-20th Century::1st quarter
-20th Century::2nd half
-20th Century::2nd quarter
-20th Century::2nd/3rd quarter
-20th Century::3rd quarter
-20th Century::4th quarter
 20th dynasty
-21st Century
 21st dynasty
 22nd dynasty
 23rd dynasty
@@ -74,53 +16,42 @@
 28th dynasty
 29th dynasty
 2nd Dynasty
-2nd Millenium BCE
-2nd Millennium BC
-2nd Millennium BC Egypt
-2nd Millennium BC Levant
-2nd Millennium BCE
-2nd War to 3rd
 30th dynasty
 31st dynasty
 3rd dynasty
-3rd millennium BC
-3rd War onward
 4th dynasty
-4th millenium BCE
-4th millennium BCE
 5th dynasty
 6th Century Style
 6th dynasty
 7th and 8th dynasties
 9th and 10th dynasties
 Aalenian
-Abassid
 Abassid Middle East
+Abassid
 Abbasid Caliphate
 Abbasid dynasty
 Abbotsford
 Abdul Aziz
 Abdul Hamid I
 Abdul Mejid
-Abdulaziz
 Abdülâziz
-Abdulhamid I
+Abdulaziz
 Abdülhamid I
-Abdulhamid II
+Abdulhamid I
 Abdülhamid II
+Abdulhamid II
 Abdülmecid I
 Abdulmejid
-Abstract
 Abstract Expressionist
 Abyssino-Italian War
 Acacian Schism
 Aceramic Neolithic
-Achaemenid
 Achaemenid Dynasty
 Achaemenid Empire
 Achaemenid rule
-Achaemenid-Roman Republic
 Achaemenid-Roman Republic Middle East
+Achaemenid-Roman Republic
+Achaemenid
 Achaemenids
 Achinese War
 Acton 2
@@ -129,7 +60,8 @@ Adam Style
 Adena
 Adil Shahi dynasty
 Adolphus Frederick
-Adoptive Emperors/Antonine Dynasty
+Adoptive Emperors
+Antonine Dynasty
 Aegean Bronze Age
 Ældre Bronzealder per.3
 Aeronian
@@ -147,11 +79,6 @@ Afonso VI
 African-American
 Afsharid dynasty
 Agate Basin
-Age 10
-Age 2
-Age 3
-Age 4
-Age 5
 Age of Despotism
 Age of enlightenment
 Age of Liberty
@@ -167,15 +94,15 @@ Ahrensburgian
 Airlift of Ethiopian Jews
 Ajubites
 Akita Ranga School
-Akkad
 Akkad Period
-Akkadian
+Akkad
 Akkadian Empire
-Akkadian-Ur III
 Akkadian-Ur III Mesopotamia
+Akkadian-Ur III
+Akkadian
 Akkoyunlu
-Akrotiri
 Akrotiri Phase
+Akrotiri
 Akrotiti Phase
 Aksumite
 Al-Anfal Campaign
@@ -186,11 +113,9 @@ Albert II
 Albian
 Albrecht von Mecklenburg
 Alekseĭ Mikhaĭlovich
-Alexander
 Alexander I
 Alexander II
 Alexander III
-Alexis
 Alexius I Comnenus
 Alexius III Angelus
 Alfonso I
@@ -204,32 +129,27 @@ Alfonso X
 Alfonso XI
 Alfonso XII
 Alfonso XIII
-Alfred
 Ali Kosh
-Allamakee
 Allamakee Phase
+Allamakee
 Allied intervention
 Allied occupation
-Almohad
 Almohad dynasty
 Almohad period
+Almohad
 Almohedes
-Almoravid
 Almoravid dynasty
 Almoravid period
+Almoravid
 Almoravides
 Almoravids
-Amana
 Amana Colonists
+Amana
 Amarna period
-American
-American 1821-present
 American Acquisition & Development
-American Acquisition & Development 1821-45
 American intervention
-American occupation
 American Occupation
-American Scene
+American occupation
 Ami School
 amirate of Granada
 Amorite
@@ -239,22 +159,20 @@ An Lushan Rebellion
 An'ei Era
 Anastasius I
 Ancestral Puebloan
-Ancient
 Ancient Chinese
-Ancient Historic
 Ancient Historic-Medieval
+Ancient Historic
 Ancient history
 Ancient History
-Ancient Rus`
+Ancient Rus
 Ancient Style
 Ancient-Medieval
+Ancient
 Andronicus II Palaeologus
 Andronicus III Palaeologus
 Andronovo
 Anfal Campaign
 Anfal Tragedy
-Angel
-Angeli
 Angevin period
 Angkor Thom
 Angkor Vat
@@ -267,38 +185,34 @@ Anglo-Dutch War
 Anglo-Egyptian Sudan
 Anglo-French War
 Anglo-Japanese
-Anglo-Saxon
 Anglo-Saxon period
+Anglo-Saxon
 Anglo-Scandinavian
 Anglo-Venetian
 Anglo-Viking
 Animal Style
 Animalier
-Anisian
 Anjou dynasty
-Anna
 Annals period
-Anne
 Anschluss movement
 Ansei Era
 Ansei Purge
-antebellum
-Antebellum
 Antebellum Period
+Antebellum
+antebellum
 Antediluvian
 Anterior Le dynasty
 Anti-Kine-Killing Agitation
 Anti-Kine-Killing Movement
-Anti-terrorist operations
 Antiquité tardive
 Antiquity
 Antirightist Campaign
 Antislavery movement
 Antislavery movements
-Antonine
 Antonine period
-Antonines
+Antonine
 Antonines Dynasty
+Antonines
 Antoninus Pius
 Any Archaic Period
 Any Woodland Period
@@ -310,7 +224,6 @@ Apennine
 Aphrodisian
 Apostolic Church
 Aptian
-Apulian
 Aq Qoyunlu
 Aqsa Intifada
 Aquitanian
@@ -322,30 +235,29 @@ Arab rule
 Arab Spring
 Arab-Israel War
 Arab-Sasanian
-Arabian
 Aragonese and Spanish rule
 Arameans
 Ararat Rebellion
 Arcadius
 Archaean
 Archaemenid
-Archaic
-ARCHAIC
 Archaic Age
 Archaic Greece
 Archaic Greek
 Archaic I
 Archaic II
-Archaic illyrian
 Archaic Illyrian
-Archaic period
+Archaic illyrian
 Archaic Period
-Archaic Period North America
+Archaic period
 Archaic unspecified
 Archaic-Classical
 Archaic-Hellenistic
 Archaic-Late
-Archaic/Protourban illyrian
+ARCHAIC
+Archaic
+Archaic
+Protourban illyrian
 Archaistic
 Archean
 Archidamian War
@@ -353,7 +265,6 @@ Arequipa
 Argaric Bronze Age
 Argive School
 Arita
-Armenian
 Armenian genocide
 Armenian Kingdom
 Armenian massacres
@@ -361,14 +272,13 @@ Armenian-Tatar Massacres
 Armenian-Tatar War
 Armeno-Tatar Conflict
 Armeno-Tatar War
-armorial
 Arnoaldi
 Árpádian Age
 Arreston
-Arsacid
 Arsacid dynasty
 Arsacid Empire
 Arsacid period
+Arsacid
 Art Deco
 Art Nouveau
 art photography
@@ -378,32 +288,30 @@ Arte nucleare
 Arte Povera
 Artinskian
 Artisan Mannerist
-Arts and Crafts
 Artuqid dynasty
-Aryan
 Ashcan School
 Asselian
-Assyrian
 Assyrian colonies
 Assyrian Colony period
 Assyrian Crisis
 Assyrian Empire
 Assyrian Imperial
+Assyrian
 Astrakhan Uprising
 Asturian
-Asuka
-Asuka period
 Asuka Period
+Asuka period
+Asuka
 Athelstan
 Athenian supremacy
 Attempted Mongol Invasions
 Attic Black Figure
 Attic Red Figure
-Augustan
 Augustan Age
-Augustus
+Augustan
 Augustus II
 Augustus III
+Augustus
 Aurelian
 Auricular
 Austrian occupation
@@ -412,30 +320,28 @@ Austro-Hungarian
 Austro-Turkish War
 Auto-destructive art
 Ava kingdom
-Awam
 Awam Dynasty
+Awam
 Axis occupation
 Aylesford
 Ayudhya
-Ayyubid
 Ayyubid dynasty
+Ayyubid
 Aztec
 Azuchi-Momoyama period
-BA
 Ba Đinh Uprising
-Babylonian
 Babylonian captivity
 Babylonian exile
+Babylonian
 Babylonians
 Backsteingotik
 Bactria-Margiana Archaeological Complex
-Bad Painting
 Badarian
 BÆX1
 Bagan period
 Bagratuni dynasty
-Bahmani
 Bahmani Dynasty
+Bahmani
 Bai miao
 Bãi Sậy Uprising
 Bajocian
@@ -446,8 +352,8 @@ Ballyvally
 Bandkeramik
 Banijurid dynasty
 Banpo
-Banshan
 Banshan Period
+Banshan
 Banteay Srei
 Bao Dai
 Baoqing
@@ -460,8 +366,8 @@ Barbizon School
 Barocchetto
 Barons' Crusade
 Barons' War
-Baroque
 Baroque Revival
+Baroque
 Barracks Emperors
 Barremian
 Bartonian
@@ -471,11 +377,11 @@ Bashkirian
 Basil I
 Basil II Bulgaroctonus
 Basiliscus
-Basketmaker
 Basketmaker II
-Basketmaker III
 Basketmaker III Exploitation
 Basketmaker III Exploration
+Basketmaker III
+Basketmaker
 Basohli
 Batak War
 Batavian Republic
@@ -494,35 +400,32 @@ Bayezid II
 Bayon
 Baytown
 Beaker culture
-Beakers
 Beat generation
 Beaux-Arts
 Begtiginid dynasty
 Beixin
-Bell Beaker
 Bell Beaker Culture
-Belle Glade
+Bell Beaker
 Belle Glade I
 Belle Glade II
 Belle Glade III
 Belle Glade IV
+Belle Glade
 Benacci
 Berlin Airlift
 Berlin Blockade
 Bernese rule
 Berriasian
 Biedermeier
-Bifurcate
 Bilaspur
-bilingual
 Binh Dinh
 Birnirk
 Bishopsland
 Black and White Style
 black burnished
 Black Lustrous
-Black Sand
 Black Sand complex
+Black Sand
 Black-figure
 Black-on-Buff
 Black-slip-and-combed
@@ -530,17 +433,17 @@ black-topped
 Blackmoor
 Blacksand
 BM II
-BM III
 BM III Exploitation
 BM III Exploration
+BM III
 BMAC
 BMII
-BMIII
 BMIII Exploitation
 BMIII Exploration
+BMIII
 Bodman/Schachem
-Boeotian
 Boeotian War
+Boeotian
 Boer Revolt
 Boer War
 Bogomil
@@ -549,19 +452,14 @@ Boleslaus I
 Boleslaus II
 Boleslaus III
 Bölling/Alleröd interstade
-Bombardment
 Boniface IX
 Bonnanaro A
 Bonnanaro B/Nuragic I
 Boom Times
-Boom Times 1921-1929
-Border War
 Boris Fyodorovich Godunov
 Boris Godunov
 Boris III
 Borre Style
-Bosnian
-Boss Style
 Bourbon Restoration
 Bourbons
 Bouzid Revolt
@@ -569,28 +467,15 @@ Boxer Rebellion
 Br D
 Brahmo Samaj
 Brigand War
-British
-British 1763-1783
-British intervention
-British Intervention
-British Iron Age East Anglia
-British Iron Age East Wiltshire
-British Iron Age Kent
-British occupation
-British rule
 British War of Conquest
 Brittle Painted
-Broad Manner
 Brocade Style
 Bromme Culture
 Bronce Final I
 Bronce Final II
 Bronce Final III
-Bronze
 Bronze A1
 Bronze A2
-Bronze age
-Bronze Age
 Bronze Age Britain
 Bronze Age I
 Bronze Age II
@@ -601,15 +486,17 @@ Bronze Age Period
 Bronze Age V
 Bronze Age VI
 Bronze Age-Modern Present
+Bronze age
+Bronze Age
 Bronze B
 Bronze C1
 Bronze C2
 Bronze D
 Bronze final I-II
 Bronze final III
+Bronze
 Bucchero
 Buen Retiro
-Buff
 Bulavin Uprising
 Bulgarian occupation
 Bun'ei Era
@@ -638,23 +525,20 @@ Buto III
 Buto IV
 Buto V
 BYZ
-Byzantine
 Byzantine Empire
 Byzantine Invasion
 Byzantine Period
 Byzantine Revival
+Byzantine
 Bz A1
 Bz A2
 Bz B
 Bz C1
 Bz C2
 Bz D
-ca. 1930s-1940s
 Cabanagem
-Cabiran
 Caborn-Welborn
 Cades Pond
-Cades Pond 300 B.C.-A.D. 800
 Caeretan
 Caesarian
 Cahokia
@@ -663,20 +547,18 @@ California Modernism
 Caligula
 Calima
 Caliphate of Córdoba
-Caliphate-Umayyad
 Caliphate-Umayyad Middle East
+Caliphate-Umayyad
 Callovian
-Caloosahatchee
-Caloosahatchee 500 B.C.-1700 A.D.
 Caloosahatchee I
 Caloosahatchee IIA
 Caloosahatchee IIB
 Caloosahatchee III
 Caloosahatchee IV
+Caloosahatchee
 Calymmian
 Cambodian-Vietnamese Border War
 Cambodian-Vietnamese Conflict
-Cambrian
 Cambrian Series 2
 Cambrian Series 3
 Cambrian Stage 10
@@ -684,21 +566,20 @@ Cambrian Stage 2
 Cambrian Stage 3
 Cambrian Stage 4
 Cambrian Stage 5
+Cambrian
 Campanian
 Campignian
-Canaanite
 Canaanite culture
-Canh Hung reign
+Canaanite
 Canh Hung reign period
+Canh Hung reign
 Cantabrian War
-Canton
 Canudos Campaign
 Canudos Rebellion
 Canute
 Cape Dutch
 Cape Frontier War
 Capetians
-Capital Jurisdiction Question
 Capitalist Realism
 Capitanian
 Capodimonte ware
@@ -713,12 +594,11 @@ Carlovingian rule
 Carlovingians
 Carnian
 Carnuntum Conference
-Caroline
 Caroline War
-Carolingian
 Carolingian dynasty
 Carolingian Empire
 Carolingian rule
+Carolingian
 Carolings
 Carolingus
 Carpenter Gothic
@@ -730,9 +610,7 @@ Casimir I
 Casimir III
 Casimir IV
 Cassabile
-Caste War
 Caste War of Yucatán
-Castelli
 Castelluccian
 Cathari
 Catherine I
@@ -742,18 +620,16 @@ Cauca
 Caucasian War
 Celtiberian
 Celtic
-Cemetery
 Cenomanian
 Central Medieval
 Central Middle Ages
 Central Plains Tradition
-Central Plains Tradition(?)
 Century of Enlightenment
 Century of Reformation
 Ceramic Age
-Ceramic Neolithic
 Ceramic Neolithic A
 Ceramic Neolithic B
+Ceramic Neolithic
 CG I
 CG II
 CG III
@@ -764,11 +640,10 @@ Ch'ing dynasty
 Chachapoya
 Chagatayid dynasty
 Chalcidian
-Chalcolithic
 Chalcolithic Age
 Chalcolithic Iran
 Chalcolithic Mesopotamia
-Chalcolithifc
+Chalcolithic
 Chaldeans
 Changhsingian
 Changxingian
@@ -786,9 +661,9 @@ Charles V
 Charles VI
 Charles VII
 Charles VIII
-Charles X
 Charles X Gustav
 Charles X Gustavus
+Charles X
 Charles XI
 Charles XII
 Charles XIII
@@ -798,7 +673,6 @@ Chasseen
 Chattian
 Chechen War
 Chechnya War
-Chen
 Chen dynasty
 Chen Dynasty
 Chen-la
@@ -811,16 +685,14 @@ Chʻi dynasty
 Chʻien Shu
 Chʻin-Han dynasties
 Chʻun Chʻiu period
-Chia ch'ing 1796-1820
 Chicago School
-Chimu
 Chimu-Inca
+Chimu
 Chimurenga War
 Chin dynasty
 Chincha-Atacama
 Chinchorro
 Chindunduma
-Chinese
 Chinese-Japanese War
 Chippendale
 Chiribaya
@@ -837,14 +709,12 @@ Chongning
 Chongzhen
 Choroku Era
 Choryaku Era
-Chosen
 Choson Dynasty
 Chosŏn dynasty
 Chotoku Era
 Chou dynasty
 Chowa Era
 Chremonidean War
-Christian
 Christian I
 Christian III
 Christian IV
@@ -855,49 +725,38 @@ Christian VI
 Christian VII
 Christian VIII
 Christian X
-Christina
-Christopher
 Chungwan
 Chunhua
-Chunxi
+Chunhua
 Chunyou
 Churrigueresque
 Cimmerian
 Cisuralian
 City Beautiful Movement
-Civil Disobedience
-Civil War
-Civil War 1861-1865
-Civil Wars
-Civilis' Revolt
 Clactonian
-CLASS
-Classic
-Classic Christian
 Classic Christian Period
+Classic Christian
 Classic IIllyrian
 Classic illyrian
 Classic Kerma
-Classic/Urban illyrian
-Classical
 Classical Age
-Classical antiquity
 Classical Antiquity
+Classical antiquity
 Classical Greece
 Classical Greek
 Classical I
-Classical Iberian
 Classical Iberian Period
+Classical Iberian
 Classical II
-Classical period
 Classical Period
+Classical period
 Classical Revival
 Classical World
 Classical-Hellenistic
 Classical-Roman
-Claudian
+Classical
 Claudian period
-Claudius
+Claudian
 Claudius II
 Clazomenian
 Clement V
@@ -909,13 +768,12 @@ Clovis/Gainey
 Club War
 Cold War
 Collared Urns
-Colonial
 Colonial New Zealand Wars
 Colonial North American
 Colonial period
 Colonial Revival
-Colonial-Modern
 Colonial-Modern Middle East
+Colonial-Modern
 Colony to Nation
 Commagenian
 Commodus
@@ -924,71 +782,57 @@ Commonwealth of England
 Communero Rebellion
 Comneni dynasty
 Comnenian
-Company
-Conceptual
-Confederation
 Conference of Carnuntum
 Coniacian
-Conquest
 Conrad II
 Conrad III
 Conselheiro Insurrection
 Conspiracy of Catiline
 Constans II
-Constantine
 Constantine I
 Constantine V Copronymus
 Constantine VII Porphyrogenitus
 Constantine XI Dragases
 Constantines
-Constantinian
 Constantinian Dynasty
 Constantinian Era
 Constantinian Period
 Constantinian Renaissance
+Constantinian
 Constantius II
 Constitutional period
 Constitutionalist movement of Gīlān
 Constructionist
 Consulate and First Empire
-Contact
 Contact Era Prehistoric
 Contact Period
-Contemporary
 Contemporary Period
 contemporary with Hartley phase
-Contermporary
+Contemporary
 Contestado Insurrection
 Copper age
 Copper Age
 Coptic
 Coral-red
 Corded ware culture
-Corea
-Corinthian
 Corinthian period
 Corinthian War
+Corinthian
 Cossack
 Cottage Style
 Count's War
 Counter-Reformation
 Crab Orchard
-Craftsman
 Crawford Phase
 Creationist
 Creek-Lower
 Cretaceous
-Cretan
 Creto-Mycenaean
 Crimean War
 Crisis of the twelfth century BC
-Crusader
-Crusader-Ottoman
 Crusader-Ottoman Levant
-Crusader/Byzantine/Seljuq
-Crusader/Byzantine/Seljuq Middle East
-Crusader/Seljuq-Ayyubid
-Crusader/Seljuq-Ayyubid Levant
+Crusader-Ottoman
+Crusader
 Crusades--Third
 Cryogenian
 Cubist
@@ -997,11 +841,10 @@ Cudgel War
 Cuenca
 Cumberland
 Cuzco
-Cycladic
 Cycladic Culture
 Cycladic White
+Cycladic
 Cyprian's plague
-Cypriote
 Cypro Archaic I
 Cypro Archaic II
 Cypro Classical I
@@ -1009,17 +852,17 @@ Cypro Classical II
 Cypro Geometric I
 Cypro Geometric II
 Cypro Geometric III
-Cypro-Archaic
 Cypro-Archaic I
 Cypro-Archaic II
-Cypro-Classical
+Cypro-Archaic
 Cypro-Classical I
 Cypro-Classical II
+Cypro-Classical
 Cypro-EPPNB
-Cypro-Geometric
 Cypro-Geometric I
 Cypro-Geometric II
 Cypro-Geometric III
+Cypro-Geometric
 Cypro-LPPNB
 Cypro-MPPNB
 Cypro-PPN
@@ -1032,23 +875,20 @@ Dadi
 Dading
 Daedalic
 Daguan
-DAI
-Dai Hoa reign
 Dai Hoa reign period
+Dai Hoa reign
 Dai-La
+DAI
 Daibutsuyo
 Daido Era
 Daiei Era
 Daiho Era
 DAII
 DAII/III
-DAIII
 Daiji Era
 Daizong
 Dakang
-Dali
 Dali Kingdom
-Dalton
 Dalton-Henderson
 Danian
 Danilo I
@@ -1058,56 +898,45 @@ Dano-Swedish War
 Dano-Swedish Wars
 Daoguang
 Daozong
-Daphne
 Dapingian
 Darfur Conflict
 Darfur Genocide
 Darfur War
-Dark Age
 Dark Age I
 Dark Age II
 Dark Age II/III
 Dark Age III
-dark ages
+Dark Age
 Dark Ages
+dark ages
 Dark Burnished
 Dark-faced Burnished
 Dark-faced Incised
 Darriwilian
 Dashun Ming-Qing
 Dashun Zhaozong
-Dawenkou
 Dawenkou culture
+Dawenkou
 Daxi
 Daye
 Dazhong Xiangfu
 De Stijl
-Decadence
 Decadent Movement
 December Events
-Decius
 Deconstructivist
-Demonstrations
 Demotic
-Denis
 Depression era
-Depression/New Deal
-Depression/New Deal 1930-1940
 Deptford
-Deptford 700 B.C.-300 B.C.
 Derryniggin
-Despotate
 Developed Medieval
 Devonian
 Dezong
 Dhofar Rebellion
 Dhofar War
 Diadochi
-Dictatorship
-Dien Ninh reign
 Dien Ninh reign period
+Dien Ninh reign
 Difaqane period
-Dignity
 Dilmun
 Ding
 Dinh dynasty
@@ -1115,10 +944,6 @@ Dinh dynasty
 Dinis
 Diocletian
 Direct art
-Directoire
-Directory
-Dirty War
-Dispersion
 Dogra dynasty
 Dokathismata type
 Domitian
@@ -1134,85 +959,75 @@ Dowris A
 Drumian
 Duanping
 Duarte
-Duchy
 Dulafid dynasty
 Duptala
-Durst
-Dutch
-Dutch Conquest
 Dutch New England and New York
 Dutch rule
 Duy Tan
 Dvaravati
 Dynasty 0
-EAN
 EAN 1
 EAN 2
 EAN 3
+EAN
 Earlier Bronze Age
 Earlier Nine Years' War
 Earlier Shu kingdom
 Earlier Stone Age
 Earliest Iron Age
 early 11th dynasty
-early 19th century
-Early 20th Century
 early 25th dynasty
 Early A-group
-Early Aceramic Neolithic
 Early Aceramic Neolithic 1
 Early Aceramic Neolithic 2
 Early Aceramic Neolithic 3
+Early Aceramic Neolithic
 Early and Middle Bronze Age
-Early and Middle Empire
 early Antonine period
-Early Archaic
-Early Archaic
 Early Archaic Kirk
+Early Archaic
+Early Archaic
 early Augustan period
 Early BA
 Early Baroque
-Early Bronze
-Early Bronze age
-Early Bronze Age
-Early Bronze Age Anatolia
 Early Bronze Age I
 Early Bronze Age II
 Early Bronze Age III
 Early Bronze Age IV
-Early Bronze Age Southern Levant
+Early Bronze age
+Early Bronze Age
 Early Bronze I
-Early Bronze II
 Early Bronze II-III
+Early Bronze II
 Early Bronze III
-Early Bronze IV/Middle Bronze I
 Early Bronze IVA
 Early Bronze IVB
 Early Bronze Αge
-Early Byzantine
+Early Bronze
 Early Byzantine I Period
 Early Byzantine II Period
 Early Byzantine period
 Early Byzantine Period
-Early Canaanite
+Early Byzantine
 Early Canaanite Age
 Early Canaanite Period
+Early Canaanite
 Early Carboniferous
 Early Chalcolithic
-Early Christian
 Early Christian I
 Early Christian II
-Early Christian Period
 Early Christian Period I
 Early Christian Period II
+Early Christian Period
+Early Christian
 Early Christianity
 Early Classic
-Early Classical
 early classical Greece
-early classical period
 Early Classical Period
-Early Copper
+early classical period
+Early Classical
 Early Copper Age
+Early Copper
 Early Corinthian
 Early CPPNB
 Early Cretaceous
@@ -1230,7 +1045,6 @@ Early Cypro-Pre-Pottery Neolithic B
 Early Dark Age
 Early Devonian
 Early Dilmun
-Early Dynastic
 Early Dynastic I
 Early Dynastic II
 Early Dynastic III
@@ -1238,19 +1052,16 @@ Early Dynastic IIIa
 Early Dynastic IIIb
 Early Dynastic Mesopotamia
 Early Dynastic Middle East
-Early Dynastic Period
 Early Early Bronze Age
 Early Early Medieval
 Early EBA
 Early Edo
-early Empire
-Early Empire
 Early Eneolithic
 Early Epipaleolithic
 Early Etruscan
 Early Formative
-Early geometric
 Early Geometric
+Early geometric
 Early Germanic Iron Age
 Early Greek
 Early Gulf Formational
@@ -1270,14 +1081,10 @@ Early Historic
 Early Horizon
 Early Iberian
 Early Iberian Period
-Early Imperial
 Early Industrial
 Early Intermediate Period
-Early Iron age
 Early Iron Age
-Early Iron Age Anatolia
-Early Iron Age early
-Early Iron Age late
+Early Iron age
 Early Iron Age Period
 Early Islamic
 Early Islamic Period
@@ -1297,11 +1104,10 @@ Early Medieval
 Early Medieval A
 Early Medieval B
 Early Medieval C
-Early Medieval Caucasus
 Early Medieval D
 Early Medieval Period
-Early mesolithic
 Early Mesolithic
+Early mesolithic
 Early Middle Ages
 Early Middle Ages A
 Early Middle Ages B
@@ -1325,10 +1131,8 @@ Early Modern
 Early Modern Age
 Early modern and Elizabethan
 Early Modern Era
-Early Modern Japanese
 Early Modern period
 Early Nara
-Early National Period
 Early Natufian
 Early Neolithic
 Early Neolithic A
@@ -1341,8 +1145,8 @@ Early Ottoman Empire
 Early Palaeolithic
 Early Paleo Indian
 Early Paleo-Indian
-Early Paleoindian
 Early Paleoindian
+Early Paleoindian
 Early Paleolithic
 Early Pennsylvanian
 Early Phrygian
@@ -1388,15 +1192,12 @@ Early Uruk period
 Early Vasa
 Early Victorian
 Early Viking Age
-Early Woodland
 Early Woodland
+Early Woodland
 Early-Middle Archaic
 Early-Middle Bronze Age
-Early-Middle Bronze Age Iran
-Early/Middle Woodland
 East Roman Empire
 Eastern British Iron Age
-Eastern Empire
 Eastern Ganga Dynasty
 Eastern Han
 Eastern Han dynasty
@@ -1412,7 +1213,6 @@ Eastern Zhou
 Eastern Zhou dynasty
 Eastern Zhou Period
 Eastlake
-EB
 EB I
 EB II
 EB III
@@ -1424,17 +1224,12 @@ Eburran
 EBYZ
 EBYZI
 EBYZII
-EC
-EC !
 EC III
 Ectasian
-ED
 Ediacaran
-Edmund
 Edo
 Edo period
 Edo Period
-Edward
 Edward I
 Edward II
 Edward III
@@ -1442,11 +1237,8 @@ Edward IV
 Edward VI
 Edward VII
 Edwardian
-EG
 Egyptian Revival
 Egyptian/Hittite
-Egyptian/Hittite Levant
-Egyptians
 EH
 EH III
 Ei'en Era
@@ -1454,9 +1246,8 @@ EIA
 Eicho Era
 Eifelian
 Eight Years' War of Resistance
-Eighteenth Century Spanish 1700-1763
-Eighteenth dynasty
 Eighteenth Dynasty
+Eighteenth dynasty
 Eighth Dynasty
 Eighty Years' War
 Eiho Era
@@ -1475,27 +1266,22 @@ El-Omari
 Elagabalus
 Elamite
 Elamite Western Iran
-Elective monarchy
 Electronic era
 Eleven Years Tyranny
 Eleventh Dynasty
-Elizabeth
 Elizabeth II
 Elizabethan
 Elizabethan Revival
 Elliots Point
-EM
 EM I
 EM II
 EM III
 Emboabas War
 Emergent Miss.
 EMI
-Emigration
 EMII
 EMIII
 Emirate of Granada
-Empire
 Empire of Leoutong
 Empire of Mexico
 Emsian
@@ -1503,29 +1289,21 @@ En'o Era
 Encho Era
 Encirclement Campaigns
 Eneolithic
-Eneolothic
-Energy epoch one: geochemical energy
 Enfal Campaign
 Engen Era
 Engi Era
 Englewood
 English Canada
 English Carolina
-English colony
-English Conquest
-English Expedition
 English Florida
 English Georgia
-English Invasion
 English Invasion of Nicaragua
-English Invasions
 English New York
 Enkei Era
 Enkyo Era
 Enkyu Era
 Enpo Era
 Enryaku Era
-Entartete Kunst
 Entoku Era
 Eoarchaean
 Eoarchean
@@ -1533,17 +1311,11 @@ Eocene
 Epi-palaeolithic
 Epiclassic and Early Postclassic
 Epipalaeolithic
-Epipaleolithic
 EpiPaleolithic
+Epipaleolithic
 Epipaleolithic / Mesolithic
 Epipaleolithic Age
-Epoch 2
-Epoch 3
-Epoch of Civil Strife
-Epoch of confusion
-Epoch of Foreign Conquest
 Epoch of the Roman Conquest of Italy
-Epoch of the Struggle for Existence
 Eric III
 Eric XIV
 Eridu
@@ -1565,18 +1337,12 @@ Eudes
 Euromaidan Protests
 Euromaidan Revolution
 European Bronze Age
-European intervention
-European Miscellaneous
 European Neolithic
-European War
 Ewart Park
 Expedition of Charles VIII
 Expressionist
-Extermination Campaigns
 Faliscan
 Famennian
-Famine
-Fancy
 fascism
 Fatemites
 Fatemites in Egypt
@@ -1585,16 +1351,10 @@ Fatimid dynasty
 Fatimid Middle East
 Fatimid/Mameluke
 Fatimid/Mameluke Periods
-Faulkner
 Fauresmith
 Fauve
 Fayette
 Fayum A
-Federal
-Federal Revolution
-Federal Wars
-Federalist Revolt
-Federalist Revolution
 Federmesser Culture
 fencai
 Fenian invasions
@@ -1612,8 +1372,8 @@ Fifth Crusade
 Fifth Dynasty
 Filibuster War
 fin de siècle
-Final Bronze age
 Final Bronze Age
+Final Bronze age
 Final Jōmon
 Final La Tène
 Final Mesolithic
@@ -1623,15 +1383,12 @@ Final Palaeolithic
 Final Paleolithic
 Final PPNB
 Final Pre-Pottery Neolithic B
-Fine Manner
 Finocchito
-First Armenian Monarchy of the Orontids; Monarchy of Greater Armenia
 First Chimurenga War
 First Crusade
 First Dynasty
 First Dynasty of Babylon
 First European Transition
-First Intermediate
 First Intermediate period
 First Intermediate Period
 First Intermediate Period Egypt
@@ -1640,12 +1397,9 @@ First Maori War
 First Ottoman
 First Ottoman Period
 First Palestinian Intifada
-First Period
 First Persian Empire
-First Republic
 First Seminole War
 First Sino-Japanese War
-First Spanish
 First Spanish Period
 First Spanish Period 1513-1599
 First Sudanese Civil War
@@ -1659,22 +1413,17 @@ Five Hu and the Sixteen kingdoms
 Five Julii
 Five Shilling Rebellion
 Flagstaff War
-Flamboyant
 Flavian
 Flavian Dynasty
 Flavian period
 Flavians
 Floian
-Florid Style
 Florida War
 Fluxus
 FN
 folded-arm type
 Folkunga Dynasty
 Folsom
-Food Vessels
-Foreign intervention
-Formative period
 Former Liang
 Former Qin
 Former Shu Kingdom
@@ -1688,13 +1437,11 @@ Fourth Armenian Monarchy
 Fourth Armenian Monarchy of the Bagratids
 Fourth Crusade
 Fourth Dynasty
-Fox
 Fox Lake
 Francis I
 Francis II
 Francis Joseph I
 Franco Prussian War
-Franco-Flemish
 Franco-German War
 Franco-Prussian War
 Franco-Thai War
@@ -1716,31 +1463,18 @@ Frederick IX
 Frederick V
 Frederick VI
 Frederick VII
-Frederick William
 Frederick William I
 Frederick William II
 Frederick William III
 Frederick William IV
-Frederick?
-Free Style
-French
 French and Indian War
 French Canada
-French Colony
-French Domination
-French intervention
-French Invasion
 French Invasion of Veracruz
 French Louisiana
-French occupation
 French occupation of Rhineland
 French occupation of Ruhr Region
-French Protectorate
 French Revolution
-French rule
 French-Algerian War
-Frontier
-Frontier Wars
 Ft. Walton
 Ft. Walton A.D. 1000-1500
 Fuad
@@ -1766,7 +1500,6 @@ Gangyo Era
 Gansu
 Gaozong
 Gaozu
-Gast
 Gast phase
 Gaudo
 Gawra period
@@ -1796,28 +1529,23 @@ Genroku Era
 Genroku period
 Genryaku Era
 Gentoku Era
-geometric
-Geometric
 Geometric Greek
 Geometric I
 Geometric II
 Geometric III
 Geometric Kebaran
-Geometric period
 Geometric Period
+Geometric period
 George I
 George II
 George III
 George IV
 George V
 George VI
-Georgian
 Georgian Revival
 German Amana Colonist
 German Amana Colonists
-German occupation
 Germanic Iron Age
-Germanic rule
 Gerzean
 Ghassulian
 Ghaznavid
@@ -1826,7 +1554,6 @@ Ghilzay Afghan dynasty
 Ghurid dynasty
 Gia Long
 Gilded Age
-Gingerbread
 Givetian
 Glades
 Glades I
@@ -1843,10 +1570,8 @@ Glades IIIc
 Gladiatorial War
 Glasgow style
 Glenwood
-Glenwood(?)
 Gnathian
 Goan
-Gobelins
 Gondar
 Gondarine
 Gongen
@@ -1862,36 +1587,27 @@ goût grec
 Graeco-Roman
 Graeco-Roman Period
 Graham Cave
-Grand duchy
-Grand Rapids
 gray burnished
 Great Empire of Tangut
-Great Famine
 Great Hate
 Great Irish Famine
-Great Northern War
-Great Oasis
 Great Oasis or Oneota
 Great Plague
 Great Plague of London
 Great Potato Famine
 Great Trek
-Great War
 Great Western Schism
-Great Wrath
 Grecian
 Greco-Bactrian
 Greco-Persian
 Greco-Roman period
 Greco-Roman Schism
-Greek
 Greek and Roman Provincial
 Greek Revival
 Green River
 gritty buff
 Grotta-Pelos
 Grotta-Pelos Culture
-Guadalupian
 Guangtian
 Guangxu
 Guangzong
@@ -1930,8 +1646,7 @@ Haakon Gamli
 Haboku
 Hachiman
 Hadean
-Hadra
-Hadrian
+Haboku
 Hadrianic
 Hadrianic period
 Haftavan IC-IA
@@ -1977,7 +1692,6 @@ Hallstatt-culture
 Ham Nghi
 Hamburgian
 Hamburgian Culture
-Hamdanid
 Han
 Han Dynasties
 Han dynasty
@@ -1986,8 +1700,6 @@ Hanigalbat
 Hannibal's War
 Hanoverian
 Harappan
-Hard Style
-Hard-edge
 Hardin
 Harlem Renaissance
 Harshavarman III
@@ -2000,15 +1712,12 @@ Hassuna
 Hassuna archaic
 Hassuna standard
 Hauterivian
-Havana
-Havana/ Hopewell
 Heian
 Heian period
 Heian Period
 Heiji Era
 Heisei Era
 Heisei period
-HELL
 Hell Gap
 Helladic
 Helladic period
@@ -2054,7 +1763,6 @@ Hie
 High Baroque
 High Classical
 High Classical Period
-High Empire
 High Gothic
 High Hellenistic
 High Medieval
@@ -2074,19 +1782,12 @@ Hispano-Flemish
 Hispano-Moresque
 Hispano-Visigothic
 Hissar III
-Historic
 Historic American Indian
 Historic Euro-american
 Historic Indian
 Historic Kazakh
 Historic Native American
-Historic Non-Indian
 Historic Oneota
-Historic time
-Historic times
-Historic-Unspecified
-Historic/Unknown
-Historical
 History of inter-testamental events
 Hittite
 Hittite Empire
@@ -2113,7 +1814,6 @@ Hongwu
 Hongzhi
 Honorius
 Hopewell
-Hopewell/Havana
 Hopewellian
 Horeki Era
 Hotoku Era
@@ -2146,9 +1846,7 @@ Humber
 Hung Tri reign
 Hung Tri reign period
 Hungarian Conquest Period
-Hungarian occupation
 Hunnic
-Hur Rebellion
 Hurri
 Hurrian
 Hussite Wars
@@ -2162,8 +1860,6 @@ IA IIB
 IA IIC
 IA III
 IB
-Ibrahim
-İbrahim
 Icarian
 Idrisid
 Idrisid dynasty
@@ -2174,17 +1870,12 @@ Ilkhanate Middle East
 Ilkhanid dynasty
 Illlyrian
 Illyrian
-Imperial
 Imperial Christian
 Impressionist
 Inca
-Independence and Civil War
-Indet. Fort Ancient
 Indet. Mississippi
 Indet. Prehistoric
-Indeterminate
 Indian Mutiny
-Indian occupation
 Indian occupation of Alcatraz Island
 Indian Pond
 Indian Pond A.D. 950-contact
@@ -2202,20 +1893,15 @@ Information age
 Initial Aceramic Neolithic
 Initial Early Phrygian
 Initial Formative
-Initial Period
 Inju dynasty
 Innocent X
 Innwa kingdom
-Insurrection
 Insurrection of the Camisards
 Insurrection of Tupac Amaru
 Inter-testamental period
-Intermediate
 Intermediate Bronze Age
 International Gothic
-Interregnum
 Interwar Period
-Intifada
 Intifada II
 Intimist
 Ionian
@@ -2225,13 +1911,11 @@ Iraq War
 Iraq-Kuwait Conflict
 Iraq-Kuwait Crisis
 Iraqi occupation
-Irene
 Irish Confederation
 Irish Potato Famine
 Irish Troubles
-Iron
-Iron age
 Iron Age
+Iron age
 Iron Age Britain
 Iron Age I
 Iron Age IA
@@ -2244,7 +1928,6 @@ Iron Age III
 Iron Age Italy
 Iron Age Southern Levant
 Iron I
-Iron I-II
 Iron IA
 Iron IB
 Iron II
@@ -2260,16 +1943,11 @@ Isin II
 Isin-Larsa
 Isin-Larsa period
 Isin-Larsa Period
-Ismail
 Israel-Arab War
-Israeli intervention
 Israeli intervention in Lebanon
-Israelite
 Israelite Age
 Israelite Period
 István II
-Italian
-Italian occupation
 Italian Risorgimento
 Italianate
 Italo-Byzantine
@@ -2282,7 +1960,7 @@ Ivan IV
 Ivan Shishman
 Ivan VI
 Iwai Rebellion
-Izumo Taisha
+Iwai Rebellion
 Jacobean
 Jacobean Revival
 Jacobethan
@@ -2301,10 +1979,7 @@ James VI
 Jane I
 Jangal movement
 Jangalī movement
-Japanese Invasions
 Japanese Invasions of Korea
-Japanese occupation
-Japanese Occupation
 Japanese occupation of Sarawak
 Japanese Prehistoric
 Japanese-Chinese War
@@ -2325,13 +2000,13 @@ Jayavarman VIII
 Jellinge Style
 Jemder Nasr
 Jemdet Nasr
-Jemdet Nasr period
 Jemdet Nasr Period
+Jemdet Nasr period
 Jesuit War
 Jewish-Arab War
 Jewish-Roman War
 Jiading
-Jiajing
+Jiading
 Jian Era
 Jiangshanian
 Jianwen
@@ -2362,14 +2037,10 @@ Joan Era
 Joei Era
 Jogan Era
 Jogen Era
-Jogen Era 1207-1211
-Jogen Era 976-978
 Johei Era
-John
 John Casimir
 John I
 John I Albert
-John I Tzimisces
 John II
 John II Casimir
 John II Comnenus
@@ -2381,14 +2052,12 @@ John V Palaeologus
 John VI
 John VIII Palaeologus
 Joho Era
-Joint Monarchy
 Joint Rule of Kings Tancred and Roger III
 Jokyo Era
 Jokyu Era
 Jōmon
 Jonathan Creek
 Joryaku Era
-Joseph
 Joseph Bonaparte
 Joseph I
 Joseph II
@@ -2400,10 +2069,9 @@ Juei Era
 Julian
 Julian dynasty
 Julian-Claudian dynasty
-Julians
 Julio-Claudian
-Julio-Claudian dynasty
 Julio-Claudian Dynasty
+Julio-Claudian dynasty
 Julio-Claudian period
 Julio-Claudians
 Julius II
@@ -2427,8 +2095,6 @@ Kaitai
 Kaixi
 Kajar dynasty
 Kajo Era
-Kajo Era 1106-1108
-Kajo Era 848-851
 Kakitsu Era
 Kakwayhid dynasty
 Kalighat
@@ -2437,7 +2103,7 @@ Kalmar union
 Kamakura
 Kamakura period
 Kamakura Period
-Kamakura-Momoyama periods
+Kamakura-Momoyama
 Kampuchean-Vietnamese Conflict
 Kan'ei Era
 Kan'en Era
@@ -2513,7 +2179,6 @@ Khedivate Egypt
 Khirbet Kerak
 Khirokitia
 Khirokitia Culture
-Khmer
 Khwarazm Shahs
 Khwarezmian
 Khwarezmian Middle East
@@ -2523,12 +2188,9 @@ Kilkenny Confederation
 Killaha
 Killymaddy
 Kimmeridgian
-Kin
 King George's War
 King Philip's War
 King William's War
-King's Peace
-Kingdom
 KIngdom and Early Republic
 Kingdom of Algiers
 Kingdom of Mittani
@@ -2536,14 +2198,12 @@ Kingdom of Numidia
 Kingdom of Peru
 Kingdom of the Visigoths
 Kingdom of Urartu
-Kings
 Kings of Corea
 Kings of Fez
 Kings of Tremecen
 kinrande
 Kirishitan Uprising in Shimabara
 Kirk-Palmer
-Kishangarh
 Kitayama Peasant Uprising
 Knocknagur
 Ko Kutani
@@ -2556,8 +2216,6 @@ Koguryo Kingdom
 Koh Ker
 Kohei Era
 Koho Era
-Koji Era 1142-1144
-Koji Era 1555-1558
 Koka Era
 Kokoku Era
 Kol Insurrection
@@ -2575,8 +2233,6 @@ Koryo Dynasty
 Koryŏ period
 Kose School
 Kosho Era
-Kowa Era 1099-1104
-Kowa Era 1381-1384
 Kraak
 Kuang hsü
 Kudara Kannon
@@ -2624,7 +2280,6 @@ Lambayeque
 LAN
 Lan Xang
 Lancaster and York
-Land Wars
 Landgraviate
 Lane Farm
 Langhian
@@ -2632,9 +2287,6 @@ Lapui
 Larsa Dynasty
 Lascarid dynasty
 Last Ice Age
-late 19th -20th cent residential
-Late 19th-Early 20th Century
-Late 20th Century
 Late Aceramic Neolithic
 Late and final mesolithic
 Late Antique
@@ -2649,12 +2301,11 @@ Late Archaic
 Late Archaic Period
 Late Archaic/Early Woodland
 Late Assyrian
-late Augustan period
 Late BA
 Late Baroque
 Late Bronze
-Late Bronze age
 Late Bronze Age
+Late Bronze age
 Late Bronze Age I
 Late Bronze Age IA
 Late Bronze Age IB
@@ -2666,7 +2317,6 @@ Late Bronze Age IIIA
 Late Bronze Age IIIB
 Late Bronze Age IIIC
 Late Bronze Age Southern Levant
-Late Bronze Age/Early Iron Age
 Late Bronze I
 Late Bronze IIA
 Late Bronze IIA-B
@@ -2693,8 +2343,8 @@ Late Classic
 Late Classic Veracruz
 Late Classical
 late classical Greece
-late classical period
 Late Classical Period
+late classical period
 Late Copper Age
 Late Corinthian
 Late CPPNB
@@ -2884,8 +2534,8 @@ Late Uruk
 Late Vasa
 Late Victorian
 Late Viking Age
-Late Woodland
 Late Woodland
+Late Woodland
 Late Woodland/Mississippian
 Late/Final A-group
 later 11th dynasty
@@ -2898,7 +2548,6 @@ Later Bronze Age
 Later Chou dynasty
 Later Han
 Later Han Dynasty
-Later Islamic
 Later Islamic Period
 Later Jin
 Later Jin Dynasty
@@ -2918,14 +2567,13 @@ Later Uruk period
 Later Yan
 Later Zhao
 Later Zhou
-Later Zhou dynasty
 Later Zhou Dynasty
+Later Zhou dynasty
 Latest Iron Age
 Latial Iron Age
 Latin Empire
 Latin Kingdom
 Latin Kingdom of Jerusalem
-LB
 LB I
 LB II
 LB IIA
@@ -2945,7 +2593,6 @@ LC IIA-B
 LC IIC
 LC III
 LC IIIA
-Lê
 Le Dynasty
 Lê Văn Khôi's Rebellion
 Leo I
@@ -2958,7 +2605,6 @@ Leopold II
 Leopold III
 Lerna III
 Levanto-Aurignacian
-Lewis
 Lg SN Cluster
 LH I
 LH II A
@@ -2977,23 +2623,17 @@ Liao
 Liao dynasty
 Liao Dynasty
 Libyan Civil War
-Libyan Protests
-Libyan Rebellion
-Libyan Revolt
-Libyan Revolution
-Libyan Uprising
 Licchavi dynasty
 Lichhavi
 Lichhavi dynasty
 Lifaqane period
-Light and Space
 Limes period
 Linn
 Little War
 Liu Shan
 Liu Song
-Liu Song dynasty
 Liu Song Dynasty
+Liu Song dynasty
 Liverpool
 Lizong
 Llandovery
@@ -3019,7 +2659,6 @@ Lothair II
 Lothar II
 Lothar III
 Loudong
-Louis
 Louis I
 Louis IV
 Louis IX
@@ -3036,7 +2675,6 @@ Louis XIV
 Louis XV
 Louis XVI
 Louis XVIII
-Louisa
 Louisa Phase
 Louros type
 Lower Carboniferous
@@ -3049,8 +2687,8 @@ Lower Mississippian
 Lower Neolithic
 Lower Ordovician
 Lower Palaeolithic
-Lower paleolithic
 Lower Paleolithic
+Lower paleolithic
 Lower Permian
 Lower Tertiary
 Lower Triassic
@@ -3059,19 +2697,15 @@ LROMAN
 Lucanian
 Lucius Septimus Severus
 Ludfordian
-Ludlow
 Ludwig IV
 Luluid dynasty
 Luminist
 Lusignan dynasty
 Lutetian
 LW & Miss - FA
-Ly
 Lý dynasty
 Lycian
-Lydia
 Lydian
-Lyrical Abstraction
 Lysippic
 MA I/II
 MA III
@@ -3122,7 +2756,6 @@ Malabar II
 Malayan Emergency
 Malayu
 Malcolm IV
-Malta
 Malwa
 Mamluk
 Mamluk dynasty
@@ -3133,7 +2766,6 @@ Man'en Era
 Manasota
 Manchew TarTars
 Manchu dynasty
-Manchu Invasions
 Mangujakid dynasty
 Manji Era
 Manju Era
@@ -3154,8 +2786,6 @@ Marcus Aurelius
 Margrethe II
 Maria I
 Maria II
-Maria Theresa
-Marion
 Maritime Archaic
 Maritz's Rebellion
 Maroon War
@@ -3167,11 +2797,8 @@ Masakado's Revolt
 Masaniello's Rebellion
 Mataram
 Matter art
-Matthias
 Matthias I
 Mau Mau Emergency
-Mauretanian
-Maurice
 Maurya
 Maurya dynasty
 Maurya Period
@@ -3214,9 +2841,6 @@ Medes
 Media
 mediaeval
 Mediaeval/Byzantine
-Median
-Median Kingdom
-Median Monarchy
 Medici rule
 Medieval
 Medieval and modern Iran
@@ -3262,10 +2886,8 @@ Mesoproterozoic
 Mesozoic
 Messenian Wars
 Messinian
-Metabolism
 metal age
 Metal ages
-Metallic
 Metalwork Assemblages I/II
 Metalwork Assemblages III
 Metalwork Assemblages IV
@@ -3274,7 +2896,6 @@ Metalwork Assemblages VI
 Métis Rebellion
 Mewar
 Mexican Revolution
-Mexican War
 Mexican-American War
 Mfecane period
 MH
@@ -3283,10 +2904,8 @@ Mi-son E 1
 Miaodigou
 Miaodigou I
 Miaodigou II
-Michael
 Michael VIII Palaeologus
 Michael Wisniowiecki
-Mid 20th Century
 Mid Imperial
 Mid Jurassic
 Mid Kongemose Culture
@@ -3295,11 +2914,11 @@ Mid Single Grave Culture
 Mid-Century Modernist
 Mid-late 20th century commerce
 Middle A-group
-middle ages
 Middle Ages
+middle ages
 middle Antonine period
-Middle Archaic
 Middle Archaic
+Middle Archaic
 Middle Assyrian
 Middle Assyrian Empire
 Middle Assyrian Kingdom
@@ -3307,14 +2926,14 @@ middle Augustan period
 Middle BA
 Middle Babylonian
 Middle Bronze
-Middle Bronze age
 Middle Bronze Age
 MIddle Bronze Age
-Middle Bronze age A
+Middle Bronze age
 Middle Bronze Age A
+Middle Bronze age A
 Middle Bronze Age Anatolia
-Middle Bronze age B
 Middle Bronze Age B
+Middle Bronze age B
 Middle Bronze Age I
 Middle Bronze Age II
 Middle Bronze Age III
@@ -3334,8 +2953,8 @@ Middle Byzantine Period
 Middle Cambrian
 Middle Canaanite
 Middle Canaanite Age
-Middle Chalcolithic
 MIddle Chalcolithic
+Middle Chalcolithic
 middle classical Greece
 middle classical period
 Middle Copper Age
@@ -3376,14 +2995,13 @@ Middle Helladic II
 Middle Helladic III
 Middle Hellenistic
 Middle Hellenistic Period
-Middle History
 Middle Hittite
 Middle Hittite Anatolia
 Middle Hittite Kingdom
 Middle Holocene
 Middle Horizon
-Middle Iron age
 Middle Iron Age
+Middle Iron age
 Middle Jōmon
 Middle Jurassic
 Middle Kaftari
@@ -3456,20 +3074,14 @@ Middle-Late Archaic
 Middle-Late Bronze Age
 Middle-Late Iron Age
 Middle-Late Iron Age Anatolia
-Middle-Late Woodland
 Middle/Late Archaic
 Mieszko I
 Mieszko II
 Mieszko III
 Migdale
-Migration period
-Migration Period
-Migrations
-Migrations Period
 Miguel I
 Milagro
 Milan Obrenović
-Milas
 Mill Creek
 Mill Phase
 Milling Stone Horizon
@@ -3481,8 +3093,8 @@ Min Kingdom
 Minamoto-Taira War
 Minangkabau War
 Ming
-Ming dynasty
 Ming Dynasty
+Ming dynasty
 Ming-Chʻing dynasties
 Ming-Qing dynasties
 Minh Mang
@@ -3495,8 +3107,6 @@ Minoan Old Palace period
 Miocene
 Mir Iskusstva
 Mishima
-Mission
-Mississippian
 Missouri Bluffs
 Mitanni
 Mitannian
@@ -3511,9 +3121,7 @@ MMI
 MMII
 Moche
 Mochica
-modern
 Modern
-MODERN
 Modern Age
 Modern History
 Modern Middle East
@@ -3522,13 +3130,12 @@ Modern Period
 Modern Period A
 Modern Period B
 Modern Period C
-Modern times
 Modern Times
+Modern times
 Modernisme
 Modernist
 Mogollon
 Mohammad Reza Pahlavi
-Mohammed Ali
 Mohammed III
 Mohammed IV
 Mohammed V
@@ -3536,9 +3143,6 @@ Moingona
 Momoyama
 Momoyama Period
 Mon Kings
-Monarchic
-monarchic period
-Monarchical
 Mongol
 Mongol Invasion
 Mongol Middle East
@@ -3548,7 +3152,6 @@ Moorish Revival
 Mormon
 Morrowan
 Mosan
-Moscovian
 Motillas
 Movement to Protect the Constitution
 Movimento Italiano per l'Architettura Razionale
@@ -3558,8 +3161,6 @@ Mt. Taylor
 Mudéjar
 Mughal dynasty
 Muhammed Jafar
-Muisca
-Multi
 Multiple-Brush Painted
 Mungls
 Munhatta phase
@@ -3570,10 +3171,9 @@ Murad III
 Murad IV
 Murad V
 Muromachi
-Muromachi period
 Muromachi Period
+Muromachi period
 Mushki
-Muslim
 Mustafa I
 Mustafa II
 Mustafa III
@@ -3589,7 +3189,6 @@ Nabatean
 Nabeshima
 Nagare
 Nagasaki
-naive art
 Nakhon Si Thammarat
 Nama Revolt
 Namazga II
@@ -3608,8 +3207,8 @@ Naqada IIIb
 Naqada IIIc
 Naqada IIId
 Nara
-Nara period
 Nara Period
+Nara period
 Narino
 Nasca
 Nasca-Huari
@@ -3618,12 +3217,9 @@ Nasrid Granada
 Nasrid Kingdom of Granada
 Nasrid period
 Natufian
-Naval Rebellion
-Naval Revolt
 Naxian
 Neanderthal
 Nebo Hill
-Nebraska
 Nebraska Phase
 Neo Assyrian
 Neo Babylonian
@@ -3632,7 +3228,6 @@ Neo-Assyrian
 Neo-Assyrian Empire
 Neo-Assyrian period
 Neo-Assyrian/Babylonian
-Neo-Assyrian/Babylonian Middle East
 Neo-Attic
 Neo-Babylonian
 Neo-Babylonian Dynasty
@@ -3683,29 +3278,22 @@ Neronian
 Neronian period
 Neue Sachlichkeit
 New Deal
-New England
 New Figuration
 New Image
 New Intifada
-New Kingdom
 New Kingdom Egypt
 New Menri School
-New Palace
 New Palace Period
-New Palestinian Uprising
 New Plymouth
 New Realist
 New Sculpture Movement
 New Stone Age
-New Syrian
-New Syrian Period
 New Urbanism
 New Zealand Wars
 Newtown
 Ngcaycibi
 Ngcayecibi
 Ngika and Gcaleka
-Nguyên
 Nguyen dynasty
 Nguyẽ̂n dynasty
 Nian Rebellion
@@ -3714,9 +3302,8 @@ Nicholas I
 Nicholas II
 Nien Rebellion
 Nihonga
-Nineteenth C. American 1821-1899
-Nineteenth dynasty
 Nineteenth Dynasty
+Nineteenth dynasty
 Ninevite 5
 Ninevite 5 Incised
 Ninevite 5 Painted
@@ -3744,49 +3331,33 @@ North Eastern British Iron Age
 North Netherlandish
 Northern and Southern dynasties
 Northern and Southern Dynasties Period
-Northern Border War
 Northern Chʻi dynasty
 Northern Chou dynasty
-Northern Dynasties
-Northern Expedition
 Northern Ireland Conflict
-Northern Liang
-Northern Qi
 Northern Qi dynasty
 Northern Qi Dynasty
-Northern School
 Northern Seven Years' War
-Northern Song
 Northern Song dynasty
-Northern War
-Northern Wars
-Northern Wei
 Northern Wei dynasty
 Northern Wei Dynasty
-Northern Yan
-Northern Zhou
-Northern Zhou dynasty
 Northern Zhou Dynasty
+Northern Zhou dynasty
 Norwood
-Not Reported
 Numidia
 Nuovo Design
 Nuraghic
 Nuragic II
 Nuragic III
 Nuzi
-Occupation
-Occupation and evacuation
 Ocho Era
 Oei Era
 Oho Era
-OK
 Old Assyrian
 Old Assyrian Kingdom
 Old Assyrian Period
 Old Babylonian
-Old Babylonian period
 Old Babylonian Period
+Old Babylonian period
 Old Babylonian/Assyrian
 Old Babylonian/Assyrian Mesopotamia
 Old Bering Sea Culture
@@ -3796,10 +3367,8 @@ Old English
 Old Hittite Kingdom
 Old Hittite Period
 Old Hittite State
-Old Kingdom
 Old Kingdom Egypt
 Old Nubian
-Old Palace
 Old Palace Period
 Old Republic
 Old Silla
@@ -3813,7 +3382,6 @@ Older Late Neolithic
 Olenekian
 Oligocene
 Oneota
-Oneota/Ioway/Oto
 Onin Era
 Op art
 Operation Anfal
@@ -3824,16 +3392,12 @@ Operation Restore Democracy
 Operation Telic
 Operation Uphold Democracy
 Opium War
-or Turin
-Orange
 orange-burnished
 Ordoño III
 Ordovician
 Orhan
 Oribe
-Orientalising
 Orientalising Period
-Orientalizing
 Orientalizing Period
 Orissa
 Orontid First Monarchy
@@ -3845,12 +3409,10 @@ Oscar II
 Osceola
 Oseberg Style
 Osman
-Osman I
 Osman II
 Osman III
 Ostionoid
 Ostrogothic
-Other
 Otho I
 Oto
 Otoko-e
@@ -3869,13 +3431,11 @@ Ottoman Empire
 Ottoman period
 Ottoman Period
 Ottoman Rise
-Ottonian
 Ottonian emperors
 Ottonian Empire
 Ottonian House
 Oudh
 Owa Era
-Oxfordian
 Oxus Civilisation
 P I
 P I Exploitation
@@ -3906,8 +3466,8 @@ Palaeoproterozoic
 Palaeozoic
 Paleo Indian
 Paleo-Early
-Paleo-indian
 Paleo-Indian
+Paleo-indian
 Paleoarchean
 Paleocene
 Paleochristian
@@ -3918,7 +3478,6 @@ Paleolithic Middle East
 Paleoproterozoic
 Paleozoic
 Palestine War
-Palestinian Uprising
 Palissy
 Palladian Revival
 Pammel
@@ -3926,7 +3485,6 @@ Pammel Creek
 Pantalica North
 Pao-t'ou
 Papal Babylonian captivity
-Papal Interdict
 Papal rule
 Papal Schism
 Papineau Rebellion
@@ -3934,11 +3492,7 @@ Parian
 Parthian
 Parthian Empire
 Parthian Middle East
-Partition
-Partition period
 Pastry War
-Patriarchal
-Patriot War
 Pattern painting
 Patuleia Civil War
 Patuleia Revolt
@@ -3948,7 +3502,6 @@ Paulician
 Paulista Revolution
 Pavlovian
 Pazyryk
-Peasant Uprising
 Peasants' War
 Pedro I
 Pedro II
@@ -3958,30 +3511,17 @@ Peiligang-Cishan
 Pelican Lake
 Peloponnesian War
 Penard
-Peninsular War
 Pennsylvanian
 Pensacola
 Pentecontaetia
-People's War
 People’s Republic of China
 Pergamene
 Perico Island
-Period 1
-Period 2
-Period 3
-Period 4
-Period 5
-Period 6
-Period 7
-Period I
-Period II
-Period III
 Period of civil wars
 Period of Consolidation
 Period of discoveries
 Period of Iconoclasm
 Period of Justinian and Belisarius
-Period of military anarchy
 Period of northern and southern courts
 Period of Tamerlane
 Period of the American and French Revolutions
@@ -3991,30 +3531,20 @@ Period of the English Commonwealth and Wars of Louis XIV
 period of the Hyk'sos rule
 Period of the Italian Kings
 period of the new empire
-Period of the New Western Empire
-Period of the Northern Invasions
-period of the old empire
-Period of the Reformation; Discoveries and Inventions
 Period of the Saracen Empire
 Period of the Ten Persecutions of Christians
-Period V
 Periods of the Shungas and Early Andhras
 Permian
-Perpendicular Style
-Persian
 Persian and Greek Rule
 Persian Empire
 Persian Gulf Crisis
 Persian Gulf War
-Persian Period
 Persian Wars
 Persian-Medieval
 Persian-Medieval Caucasus
-Persians
 Perso-Ottoman-Russian
 Perso-Ottoman-Russian Caucasus
 Personal Rule
-Personal Union
 Petar I
 Petar II
 Peter I
@@ -4023,7 +3553,6 @@ Peter III
 Peter IV
 Peter V
 Petŭr II
-Phase III
 Phidian
 Philia
 Philia Bronze Age
@@ -4041,14 +3570,12 @@ Philippine Revolution
 Philistine
 Phoenician
 Phoenician culture
-Photorealist
 Phrygian
 Phrygian Kingdom
 Phrygians
 Phylakopi I Culture
 Phylakopi I phase
 PI
-PI Exploitation
 PI Exploration
 Piacenzian
 Piast period
@@ -4060,14 +3587,10 @@ PII Exploration
 PIII
 PIII Exploitation
 PIII Exploration
-Pilgrim
-Pioneer
 Pioneer Iowa
-Pitted Ware culture
 Pitted Ware Culture
-Pittura Colta
+Pitted Ware culture
 PIV
-Plague
 Plantagenets
 Plastiras type
 Plateresque
@@ -4076,12 +3599,10 @@ Pleistocene
 Pliensbachian
 Pliocene
 Ploiești
-Ploiești--History--Bombardment
 PN
 PNA
 PNB
 Poetist
-Pogroms
 Polada
 Polish occupation
 Polykleitan
@@ -4089,18 +3610,12 @@ Pompeian Style
 Pop
 Popes at Avignon
 Portuguese Brasil
-Portuguese rule
 Possible Meskwaki
 Possible Paleoindian
 Possible PPNA
 Possible Pre-Pottery Neolithic A
-possibly Hanna
-post 1937
 Post Cold War
 Post Medieval
-Post Roman
-Post War
-Post war period
 Post-Akkadian
 Post-Antiquity era
 post-Arsacid
@@ -4112,7 +3627,6 @@ Post-Medieval
 Post-Palatial
 Post-Prehistoric
 Post-Reconstruction
-Post-Reconstruction 1880-1897
 Post-Reformation
 Post-Saddam Era
 Post-Saddam Iraq
@@ -4138,20 +3652,17 @@ PPNC
 Pragian
 Praieira Revolt
 Praieira Revolution
-Prairie/Plains Late Archaic
 Praxitelean
-pre 1873
 Pre pottery-Neolithic
 Pre-Cambrian
 Pre-Ceramic
 Pre-Clovis
-Pre-Contact
 Pre-Halaf
 Pre-Pottery
-Pre-pottery Neolithic
 Pre-Pottery Neolithic
-Pre-pottery Neolithic A
+Pre-pottery Neolithic
 Pre-Pottery Neolithic A
+Pre-pottery Neolithic A
 Pre-pottery Neolithic B
 Pre-Pottery Neolithic B
 Pre-Pottery Neolithic C
@@ -4165,13 +3676,11 @@ PreBA 2
 PreBA 3
 Precambrian
 Preceramic Neolithic
-Precisionist
 Preclassic
 Predynastic
 Predynastic Egypt
 Predynastic Period
 Prehistoric
-Prehistoric and Historic
 Prehistoric Bronze Age
 Prehistoric Bronze Age 1
 Prehistoric Bronze Age 2
@@ -4195,7 +3704,6 @@ ProBA 3
 Probus
 Process art
 Proterozoic
-Protests
 proto-Armenian Satrapy of Greater Armenia
 Proto-Art Nouveau
 Proto-Attic
@@ -4270,10 +3778,9 @@ Qijia
 Qin
 Qin dynasty
 Qin Dynasty
-Qin-Han dynasties
 Qing
-Qing dynasty
 Qing Dynasty
+Qing dynasty
 Qingbai
 Qingliangang
 Qingning
@@ -4293,12 +3800,9 @@ Rákóczi Uprising
 Ramesside period
 Ramiro I
 Ramiro II
-Raoul
 Rasulid dynasty
 Rayonnant
-Realist
 Reapers' War
-Rebellion
 Rebellion of Lubomirski
 Rebellion of Pugachev
 Rebellion of Stenka Razin
@@ -4306,31 +3810,15 @@ Rebellion of Stepan Razin
 Rebellion of the Three Feudatories
 Rebellion of Zebrzydowski
 Recent Bronze Age
-Reconstruction
-Reconstruction 1866-1879
-Reconstruction and Growth
-Red Lustrous
-Red Ocher
-Red Ochre
-Red Polished
 Red River Rebellion
 Red Shawls Rebellion
 Red Wash
 Red-figure
-Red-on-black
-Red-on-white
 red-polished
-Reform
 Reformation
-Regal
-regal period
-Régence
-Regency
 Regency of Countess Adelaide
 Regency of Countess Adelasia
 Regency of Queen Margaret of Navarre
-Regency Revival
-Regionalist
 Regulator Insurrection
 Reign of  Commodus
 Reign of Aemilian
@@ -4388,8 +3876,8 @@ Reign of Julian the Apostate
 Reign of Julius Nepos
 Reign of King Roger II
 Reign of King Tancred
-Reign of King William "the Bad"
-Reign of King William "the Good"
+"Reign of King William ""the Bad"""
+"Reign of King William ""the Good"""
 Reign of King William I
 Reign of King William II
 Reign of King William III
@@ -4423,7 +3911,6 @@ Reign of Severus Alexander
 Reign of Severus II.
 Reign of Severus III
 Reign of Tacitus
-Reign of Terror
 Reign of the Etruscan Kings
 Reign of Theodosius I
 Reign of Tiberius
@@ -4444,20 +3931,11 @@ Renaissance
 Renaissance Revival
 Renzong
 Renzong Yuan dynasty
-Reorganization
-Reported Site
-Republic
-Republic / Antebellum
 Republic of China
-Republican
-Restauration
-Restoration
 Restored Le dynasty
 Return of the Heraclidae
-Revolt
 Revolt of Civilis
 Revolt of Sertorius
-Revolution
 Revolution of 1848 in Germany
 Revolution of 1848-1849
 Revolution of 1905
@@ -4465,7 +3943,6 @@ Revolution of American colonies
 Revolution of the Comuneros
 Revolution of the Farrapos
 Revolutionary Council period
-Revolutionary period
 Rhaetian
 Rhodesian War
 Rhuddanian
@@ -4487,12 +3964,11 @@ Rockingham
 Rococo
 Rococo Revival
 Roger II
-Roman
 ROMAN
+Roman
 Roman antiquity
 Roman Early Empire-Late Antique
 Roman Early Empire/Parthian
-Roman Early Empire/Parthian Middle East
 Roman Eastern Empire
 Roman emperors
 Roman Empire
@@ -4503,8 +3979,8 @@ Roman imperial period
 Roman Iron Age
 Roman Kingdom
 Roman Middle East
-Roman period
 Roman Period
+Roman period
 Roman Republic
 Roman Republican
 Roman Tetrarchy
@@ -4531,10 +4007,8 @@ Rule of the Nine
 Rule of the Noveschi
 Rum Rebellion
 Rum/Crusader
-Rum/Crusader Anatolia
 Rundbogenstil
 Rupelian
-Rupert
 Russian Conquest
 Russian occupation
 Russo-Chechen Conflict
@@ -4548,12 +4022,10 @@ Sabaean
 Sac
 Sac and Fox
 Sac?
-Sacred War
 Safavid
 Safavid dynasty
 Ṣafavid dynasty
 Safavid Middle East
-Safety Harbor
 Saffarid dynasty
 Saiko Era
 Saiko Kutani
@@ -4578,7 +4050,6 @@ Sancho I
 Sancho II
 Sancho III
 Sancho IV
-Sancho Ramírez
 Sandbian
 Santa Rosa
 Santa Rosa-Swift Creek
@@ -4597,23 +4068,14 @@ Sauveterrian
 Savoyard and Austrian rule
 Saxon emperors
 Saxon House
-Saxony
 Scapigliatura
-Schism
 Scottish Baronial
 Scythian
-Sebastian
-Sebastião
 Sebilian
-Secession Movement
 Second Chimurenga War
 Second Crusade
 Second Dynasty
 Second Dynasty of Isin
-Second Empire
-Second Intermediate
-Second Intermediate period
-Second Intermediate Period
 Second Intermediate Period Egypt
 Second Intifada
 Second Liberian Civil War
@@ -4621,24 +4083,19 @@ Second Monarchy of Great Armenia
 Second Ottoman
 Second Ottoman Period
 Second Palestinian Uprising
-Second Period
 Second Persian Period
 Second Plateresque
 Second Republic
 Second Seminole War
 Second Serbian Insurrection
 Second Sino-Japanese War
-Second Style
 Second Sudanese Civil War
 Second Taifa period
-Second Transition
-Second Uprising
-second world war
 Second World War
+second world war
 Selandian
 Seleucid
 Seleucid Monarchy
-Self strengthening movement
 Selim I
 Selim II
 Selim III
@@ -4656,7 +4113,6 @@ Seminole Wars
 Seminole-Colonization Period
 Seminole-Colonization Period 1750-1816
 Sengoku
-Separatist movement
 Separatist movement in the Rhineland
 Sepoy Mutiny
 Sepoy Rebellion
@@ -4681,8 +4137,8 @@ Shaft Grave period
 Shahi
 Shamsabad
 Shang
-Shang dynasty
 Shang Dynasty
+Shang dynasty
 Shanghai school
 Shaosheng
 Shaoxi
@@ -4724,7 +4180,6 @@ Shotoku Era
 Shouchang
 Showa
 Showa Era
-Showa Era 1312-1317
 Shōwa period
 Shu Han Kingdom
 Shu Kingdom
@@ -4735,11 +4190,8 @@ Shundi
 Shunzhi
 Si Singamangaraja War
 Sialk
-Sicilian
 Siderian
 Sidi Bouzid Revolt
-Siege
-Sigismund
 Sigismund I
 Sigismund II Augustus
 Sigismund III
@@ -4779,20 +4231,15 @@ Song dynasty
 Song-Yuan dynasties
 Songhai Empire
 Sonso
-Sophia
 Sōsaku hanga
 Sotira
 Sotira Culture
-South African Incursions
-South African Invasion
 South African War
 South Western British Iron Age
-Southern and Northern Dynasties
 Southern British Iron Age
 Southern Chʻi dynasty
-Southern Dynasties
-Southern Han kingdom
 Southern Han Kingdom
+Southern Han kingdom
 Southern Jing Kingdom
 Southern Liang
 Southern Liang Dynasty
@@ -4800,13 +4247,12 @@ Southern Ming dynasty
 Southern Qi
 Southern Qi dynasty
 Southern Qi Dynasty
-Southern School
 Southern Song
 Southern Song dynasty
 Southern Sudan question
 Southern T'ang kingdom
-Southern Tang kingdom
 Southern Tang Kingdom
+Southern Tang kingdom
 Southern Yan
 Soviet invasion of Afghanistan
 Soviet occupation
@@ -4814,33 +4260,20 @@ Soviet occupation of the Baltic States
 Soviet occupation of Western Ukraine
 Soviet-Afghan War
 space age
-Spaniards
 Spanish Civil War
 Spanish Colonial
 Spanish Colonial / Mexican
 Spanish Colonial Revival
-Spanish colony
-Spanish Conquest
-Spanish dynasty
 Spanish Empire of Mexico
 Spanish Islamic
 Spanish Kingdom of Peru
 Spanish Protectorate
-Spanish rule
-Spanish-1st or 2nd
 Spanish-American War
 Spanish-American War 1898-1916
-Spanish-First Period
-Spanish-First Period 1513-1763
-Spanish-Second Period
-Spanish-Second Period 1783-1821
 Spartan and Theban Supremacies
 Spätrömisch
 Spedos type
 Spring and Autumn Annals
-Spring and Autumn period
-Spring and Autumn Period
-Spring Hollow; Weaver
 Srivijaya
 St. Augustine
 St. Johns
@@ -4851,38 +4284,21 @@ St. Johns II
 St. Johns IIa
 St. Johns IIb
 St. Johns IIc
-Stage 10
-Stage 2
-Stage 3
-Stage 4
-Stage 5
-Stage A
-Stage B
-Stage B 1
-Stage B 2
-Stage C
-Stage C 1
-Stage C 2
-Stage C 3
 Stanislaus I Leszczynski
 Stanislaus II Augustus
 Starcevo
 Statehood & Antebellum
-Statehood & Antebellum 1845-1860
 Statherian
 Stefan Batory
 Stenian
-Stephen
 Sterns Creek
 Stick Style
 Stillbay
 Stone age
 Stone Age
-Straight
 Strapaese
 Stuart
 Stuarts
-Style 1900
 Style Sapin
 Su-Song
 Sub-geometric
@@ -4894,10 +4310,8 @@ Submycenaean and Early Iron Age
 Submycenaean and Early Iron Age or Dark Age
 Submycenaean period
 Sudanese Civil War
-Sue
-Sui
-Sui dynasty
 Sui Dynasty
+Sui dynasty
 Sukhothai
 Sukiya
 Sukkal-mah
@@ -4910,7 +4324,6 @@ Süleyman I
 Süleyman II
 Sullan
 Sulphur Spring Cochise
-Sumatran
 Sumerian
 Sumiyoshi
 Sung dynasty
@@ -4937,16 +4350,8 @@ Swift Creek-Late
 Synchromist
 Synthetist
 Syrian Civil War
-Syrian Demonstrations
-Syrian Protests
-Syrian Rebellion
-Syrian Revolt
-Syrian Revolution
-Syrian Unrest
-Syrian Uprising
 Syro-Hittite
 Syro-Phoenician
-Systemic
 T'ang dynasty
 Tablerock
 Tahirid dynasty
@@ -5033,7 +4438,6 @@ Terminal Late Woodland
 Terminal Middle Woodland
 Terra sigillata
 Terreneuvian
-Territorial
 Tertiary
 Tetrarchic
 Tetrarchy
@@ -5049,15 +4453,11 @@ The Age of the Diadochoi
 The Age of the Hellenistic Kingdoms
 The Almohad Caliphate
 The Almohad empire
-The First Period
 The five Julii
 The Flavians
 The Graeco-Roman Phase
 The Middle Ages
 The Middle Empire
-The New Dominion
-The New Empire
-The Old Empire
 The Seljuk Empire
 The Seljuq Sultanate of Anatolia
 The Severans
@@ -5066,12 +4466,10 @@ The Sultanate of Iraq
 The Sultanate of Rum
 The Tetrarchs
 Theban and Spartan Supremacies
-Thebes-Lost Lake
 Theocratic Period
-Theodore
 Theodosian
-Theodosian dynasty
 Theodosian Dynasty
+Theodosian dynasty
 Theodosian Period
 Theodosians
 Theodosius I
@@ -5091,15 +4489,9 @@ Third Crusade
 Third dynasty
 Third Dynasty
 Third Dynasty of Ur
-Third Intermediate
-Third Intermediate period
-Third Intermediate Period
 Third Intermediate Period Egypt
-Third Period
 Third Reich
 Third Republic
-Third Revolution
-Third Sacred War
 Third Seminole War
 Third Taifa period
 Thirteenth Dynasty
@@ -5108,8 +4500,8 @@ Thirty Tyrants
 Thirty-first Dynasty
 Thracian Dynasty
 Three Crowns' War
-Three kingdoms
 Three Kingdoms
+Three kingdoms
 Three Kingdoms China
 Three Kingdoms Period
 Three kingdoms-Sui dynasty
@@ -5136,7 +4528,6 @@ Tiberian period
 Tiberius
 Tiberius II
 Tibeto-Kashmiri style
-Time of Troubles
 Timurid
 Timurid dynasty
 Timurid Middle East
@@ -5145,7 +4536,6 @@ Tirah Campaign
 Tisza
 Tithonian
 Titterington Phase
-Titus
 Toarcian
 Toba War
 Togau
@@ -5155,7 +4545,6 @@ Tokuji Era
 Tolima
 Tolonides
 Tommotian
-Tonalist
 Tonghe
 Tongzheng
 Tongzhi
@@ -5180,17 +4569,13 @@ Transition Early-Middle Bronze Age
 Transition Early-Middle Bronze Age Southern Levant
 Transition from Eneolithic to Bronze Age
 Transition Roman Early Empire-Late Antique
-Transitional
 transitional Late Bronze Age/Iron Age
-Transitional Period
 Transvaal War
 Tremadocian
 Trewhiddle Style
 Tri Pt Only
 Triassic
 Tripolitan War
-Troubadour
-Troubles
 Troy I
 Troy II
 Troy III
@@ -5214,30 +4599,19 @@ Tulunid dynasty
 Tumaco
 Tumaco-La Tolita
 Tumulus Bronze Age
-Tunisian protests
-Tunisian revolt
-Tunisian revolution
-Tunisian riots
-Tunisian unrest
 Turco-Balkan War
 Turco-Italian War
 Turco-Russian Wars
-Turkic
 Turkic Mongol domination
-Turkish Conquest
 Turkish Empire
 Turkish Messenia
-Turkish occupation
-Turkish rule
-Turkish Wars
 Turkish-Italian War
 Turks in Egypt
 Turonian
-Twelfth dynasty
 Twelfth Dynasty
-Twentieth C American
-Twentieth dynasty
+Twelfth dynasty
 Twentieth Dynasty
+Twentieth dynasty
 Twenty-eighth Dynasty
 Twenty-fifth Dynasty
 Twenty-first Dynasty
@@ -5257,7 +4631,6 @@ Ubaid period in Mesopotamia
 Ubaid-Early Dynastic II
 Ubaid-Early Dynastic II Mesopotamia
 ujamaa
-Ulrich
 Ulrika Eleonora
 Umayyad
 Umayyad dynasty
@@ -5267,41 +4640,29 @@ Ummayad
 Ummayad Period
 Ummayyad/Abbasid
 Ummayyad/Abbasid Periods
-Undated
 Under Mediation act
 Undifferentiated Archaic
-Unidentified
 Unidentified Prehistoric
 Unified Silla Dynasty
-United Kingdom
 United Kingdom of Portugal
 United States-Mexican War
 Unkei
-Unknown
-Unknown historic
-Unknown Indian
-Unknown Prehistoric
 Unkoku School
-Unrest
 Upper Carboniferous
 Upper Cretaceous
 Upper Devonian
 Upper Eneolithic
 Upper Jurassic
-Upper Mississippian
-Upper Mississippian
 Upper Neolithic
 Upper Ordovician
 Upper Palaeolithic
-Upper paleolithic
 Upper Paleolithic
+Upper paleolithic
 Upper Permian
 Upper Pleistocen
 Upper Triassic
-Uprising
 Uprising of 1357-1358
 Uprising of 1848-1849
-Uprisings
 Ur III
 Urartian
 Urartian Eastern Anatolia
@@ -5329,8 +4690,8 @@ Vedic
 Vedic Period
 Vendean War
 Vendel Period
-Venetian
 VENETIAN
+Venetian
 Venetian Period
 Venetian rule
 Venetian Rule
@@ -5341,9 +4702,7 @@ Vespasianic
 Vezzi
 Victor Amadeus II
 Victor Emmanuel I
-Victoria
 Victorian
-Vicus
 Vientiane
 Vietnam Conflict
 Vietnam War
@@ -5358,7 +4717,6 @@ Villanovan period
 Vinca
 Vinca-Plocnik
 Vinca-Tordos
-vintage
 Violet Style
 Visean
 Viséan
@@ -5380,7 +4738,6 @@ Waldemar IV
 Wallace's Rising
 Wanli
 War against the Peru-Bolivian Confederation
-War and intervention
 War for Enosis
 War for Union with Greece
 War in former Yugoslavia
@@ -5422,8 +4779,8 @@ War with Turkey
 Warka Period
 Warlord period
 Warring States
-Warring States period
 Warring States Period
+Warring States period
 Wars of 1918-1921
 Wars of Independence
 Wars of Liberation
@@ -5434,8 +4791,6 @@ Wars of the Vendée
 Wars with Persia
 Wayo
 Waziristan Campaign
-Weaver
-Weaver-like
 Webb and Funk Survey
 Weeden Island
 Weeden Island 1
@@ -5457,7 +4812,6 @@ Wenlockian
 Wenzel
 Wessex I
 Wessex II
-West Slope
 Western British Iron Age
 Western Ganga Dynasty
 Western Han
@@ -5469,21 +4823,14 @@ Western Jin Dynasty
 Western Liang
 Western Qin
 Western Wei
-Western Wei dynasty
 Western Wei Dynasty
+Western Wei dynasty
 Western Xia dynasty
 Western Zhou
 Western Zhou dynasty
 Western Zhou Period
-White
-white cross-lined
 White Lotus Rebellion
-White Painted
-White Slip
 Wild Goat Style
-Wilhelmina
-Willburton
-Willerby
 William and Mary
 William I
 William II
@@ -5491,10 +4838,9 @@ William III
 William IV
 Winnebago
 Woodland
-Woodland period
 Woodland Period
+Woodland period
 Wordian
-World War
 World War 1
 World War 2
 World War I
@@ -5506,7 +4852,6 @@ Wu
 Wu Di
 Wu Kingdom
 Wu Yue Kingdom
-Wucai
 Wuchiapingian
 Wudi
 Wujiapingian
@@ -5520,7 +4865,6 @@ WW II
 WW II & Aftermath
 WW II & Aftermath 1941-1950
 WWI
-WWI military structure remains
 WWII
 Xhosa Cattle-Killing
 Xhosa Wars
@@ -5545,8 +4889,8 @@ Xining
 Xinle
 Xiping
 Xixia
-Xixia dynasty
 Xixia Dynasty
+Xixia dynasty
 Xuande
 Xuandi
 Xuanhe
@@ -5592,14 +4936,12 @@ Younger Stone age
 Yowa Era
 Ypresian
 Yüan
-Yuan dynasty
 Yuan Dynasty
+Yuan dynasty
 Yuanfeng
 Yuantong
 Yuanyou
 Yuanzhen
-Yugoslav Conflict
-Yugoslav War
 Yugoslav Wars of Secession
 Yung chen
 Yünnan Revolt

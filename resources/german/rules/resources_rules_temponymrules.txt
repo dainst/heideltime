@@ -10,3 +10,4 @@
 
 // temponyms -- CHRONONTOLOGY
 RULENAME="temponym_chronontology_de_1",EXTRACTION="%reTemponymChronontology",NORM_VALUE="%normTemponymChronontology(group(1))"
+RULENAME="temponym_chronontology_1",EXTRACTION="%reTemponymChronontology",NORM_VALUE="%normTemponymChronontology(group(1))"
